@@ -57,11 +57,11 @@ rightNavigationButtons:
  #- {link: "https://payments.leadgods.com/payment/apiaddicts/S59c7f35a961c8", text: "Obtener entradas"}
 
 # Hero Block
-heroImage: "hero.jpg"
+heroImage: "portada.jpg"
 heroTitle: "Startup y las APIs III <typeout> 2018"
 eventDate: "11 Abril de 2018"
-typeoutTextValues: '"(Definición)", "(Seguridad)", "(Negocio)", "(Desarrollo)"'
-typeoutFallback: "(Definición)"
+typeoutTextValues: '"(Startups)", "(Tecnología)", "(Negocio)", "(Innovación)"'
+typeoutFallback: "(Portal de Apis)"
 heroButtons:
  #- {link: "https://goo.gl/forms/oUz11l4P0y5RtZrg2", text: "Enviar propuesta"}
  #- {permalink: "/#tickets", text: "Comprar entradas"}
@@ -85,7 +85,7 @@ statisticBlock:
 latestNewsTitle: "Últimas noticias"
 
 # Rockstar Speakers Block
-rockstarSpeakersImage: "rockstar-speakers.jpg"
+rockstarSpeakersImage: "ponencias.jpg"
 rockstarSpeakersCount: 4
 rockstarSpeakersTitle: "Ponentes de años anteriores"
 #rockstarSpeakersButtonText: "Ver todos"
