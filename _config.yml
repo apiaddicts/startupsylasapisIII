@@ -17,9 +17,8 @@ baseurl: "http://www.startupsylasapis.es"
 #baseurl: "/startupsylasapis"
 url: "http://www.startupsylasapis.es"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-60085396-6"
-googleAnalyticsSiteUrl: "apiaddicts.github.io/apidaysmad17/"
-googleAnalyticsSiteUrl: "apiaddicts.github.io/apidaysmad17/"
+googleAnalyticsTrackingId: "UA-63062484-4"
+googleAnalyticsSiteUrl: "www.startupsylasapis.es"
 siteVerification: "8syDqXyPBXLeDN4OObptLtn2xyRCTBo-W9lLWhkoW_A"
 
 # Organizer Info
