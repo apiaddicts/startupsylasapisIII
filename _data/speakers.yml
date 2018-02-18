@@ -33,3 +33,16 @@
     - {name: "twitter", link: "https://twitter.com/marantonio82"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/marco-antonio-sanz-molina-prados-09733518/"}
 
+- 
+  id: 16
+  name: "Alberto"
+  surname: "Gonzalez"
+  company: "BBVA"
+  title: "Product Owner at BBVA Api Market"
+  bio: ''
+  thumbnailUrl: AlbertoGonzalez.png
+  rockstar: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/albertoglezpen/"}
+    - {name: "twitter", link: "https://twitter.com/alber_gp"}
+
