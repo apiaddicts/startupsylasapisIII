@@ -3,8 +3,8 @@
   <channel>
     <title>Startups y las Apis III</title>
     <description>El evento que muestra la importancia de las APIs para las startups</description>
-    <link>http://localhost:4000/startupsylasapis/</link>
-    <atom:link href="http://localhost:4000/startupsylasapis/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://www.startupylasapis.es/startupsylasapis/</link>
+    <atom:link href="http://www.startupylasapis.es/startupsylasapis/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>Canal de telegram</title>
@@ -30,8 +30,8 @@ descrubras la cantidad de cosas chulas que se pueden hacer con la API de telegra
 
 </description>
         <pubDate>Wed, 11 Oct 2017 02:30:00 +0200</pubDate>
-        <link>http://localhost:4000/startupsylasapis/blog/telegram-channel</link>
-        <guid isPermaLink="true">http://localhost:4000/startupsylasapis/blog/telegram-channel</guid>
+        <link>http://www.startupylasapis.es/startupsylasapis/blog/telegram-channel</link>
+        <guid isPermaLink="true">http://www.startupylasapis.es/startupsylasapis/blog/telegram-channel</guid>
       </item>
     
       <item>
@@ -71,8 +71,8 @@ quieres ser parte de esto, hazlo usando esta etiqueta y ¡aparecerás en la web 
 
 </description>
         <pubDate>Wed, 11 Oct 2017 00:30:00 +0200</pubDate>
-        <link>http://localhost:4000/startupsylasapis/blog/take-your-tickets</link>
-        <guid isPermaLink="true">http://localhost:4000/startupsylasapis/blog/take-your-tickets</guid>
+        <link>http://www.startupylasapis.es/startupsylasapis/blog/take-your-tickets</link>
+        <guid isPermaLink="true">http://www.startupylasapis.es/startupsylasapis/blog/take-your-tickets</guid>
       </item>
     
       <item>
@@ -95,15 +95,15 @@ más información en twitter bajo el hastag &lt;a href=&quot;https://twitter.com
 &lt;p&gt;Deja tus comentarios aquí abajo 👇 o ponte en contacto con nosotros en nuestras redes sociales&lt;/p&gt;
 </description>
         <pubDate>Wed, 04 Oct 2017 04:00:00 +0200</pubDate>
-        <link>http://localhost:4000/startupsylasapis/blog/workshop-tickets</link>
-        <guid isPermaLink="true">http://localhost:4000/startupsylasapis/blog/workshop-tickets</guid>
+        <link>http://www.startupylasapis.es/startupsylasapis/blog/workshop-tickets</link>
+        <guid isPermaLink="true">http://www.startupylasapis.es/startupsylasapis/blog/workshop-tickets</guid>
       </item>
     
       <item>
         <title>Entradas vendidas</title>
         <description>&lt;h6 id=&quot;con-ganas-de-que-llegue-el-día-del-evento&quot;&gt;¿Con ganas de que llegue el día del evento?&lt;/h6&gt;
 &lt;p&gt;¡Nosotros estamos impacientes! 🤗 Hemos vendido &lt;strong&gt;+200 entradas&lt;/strong&gt; (a coste cero, sí…) en menos de 2 días.&lt;br /&gt;
-Pronto vamos a poner a la venta las entradas para los &lt;a href=&quot;http://localhost:4000/startupsylasapis/schedule/&quot;&gt;talleres&lt;/a&gt;. (Durante esta semana publicaremos más info al respecto)
+Pronto vamos a poner a la venta las entradas para los &lt;a href=&quot;http://www.startupylasapis.es/startupsylasapis/schedule/&quot;&gt;talleres&lt;/a&gt;. (Durante esta semana publicaremos más info al respecto)
 Cada taller va a tener una entrada única, aparte de la entrada general que ya tienes.&lt;/p&gt;
 
 &lt;h6 id=&quot;talleres-&quot;&gt;Talleres 💻&lt;/h6&gt;
@@ -126,8 +126,8 @@ podrás ver los videos que hemos subido de nuestras charlas.&lt;/p&gt;
 &lt;p&gt;¡Déjanos tus comentarios y te responderemos con mucho gusto! 😊&lt;/p&gt;
 </description>
         <pubDate>Mon, 02 Oct 2017 11:00:00 +0200</pubDate>
-        <link>http://localhost:4000/startupsylasapis/blog/tickets-sold</link>
-        <guid isPermaLink="true">http://localhost:4000/startupsylasapis/blog/tickets-sold</guid>
+        <link>http://www.startupylasapis.es/startupsylasapis/blog/tickets-sold</link>
+        <guid isPermaLink="true">http://www.startupylasapis.es/startupsylasapis/blog/tickets-sold</guid>
       </item>
     
       <item>
@@ -166,8 +166,8 @@ Tendrá una duración aproximada, de 1 hora y media y habrá plazas limitadas. P
 &lt;p&gt;¡Déjanos tus comentarios y te responderemos con mucho gusto! 😊&lt;/p&gt;
 </description>
         <pubDate>Sun, 10 Sep 2017 21:00:00 +0200</pubDate>
-        <link>http://localhost:4000/startupsylasapis/blog/call-for-papers</link>
-        <guid isPermaLink="true">http://localhost:4000/startupsylasapis/blog/call-for-papers</guid>
+        <link>http://www.startupylasapis.es/startupsylasapis/blog/call-for-papers</link>
+        <guid isPermaLink="true">http://www.startupylasapis.es/startupsylasapis/blog/call-for-papers</guid>
       </item>
     
   </channel>
