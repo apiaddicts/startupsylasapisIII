@@ -1,22 +1,41 @@
 -
   id: 1
-  name: "Jorge"
-  surname: "Baumann"
-  title: "Front End Developer - Cloudappi"
-  thumbnailUrl: Jorge.jpeg
+  name: "Omar"
+  surname: "del Valle"
+  title: "API Evangelist- Cloudappi"
+  thumbnailUrl: OmarDelValle.jpeg
   team: true
   social:
-    - {name: "twitter", link: "https://twitter.com/baumannzone"}
-    - {name: "github", link: "https://github.com/baumannzone"}
-    - {name: "site", link: "http://baumannzone.com/"}
+    - {name: "twitter", link: "https://twitter.com/omarvr72"}
 -
   id: 2
   name: "Marco Antonio"
   surname: "Sanz"
-  title: "CEO - Cloudappi - LeadGods"
+  title: "CEO - Cloudappi - Waima"
   thumbnailUrl: MarcoAntonio.png
   team: true
   social:
     - {name: "twitter", link: "https://twitter.com/marantonio82"}
-    - {name: "site", link: "https://cloudappi.net"}
-    - {name: "site", link: "https://leadgods.com"}
+-
+  id: 3
+  name: "Asier"
+  surname: "Fernández"
+  title: "Product Owner - Waima"
+  thumbnailUrl: AsierFernandez.jpeg
+  team: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/marantonio82"}
+-
+  id: 4
+  name: "Esther"
+  surname: "Ramos"
+  title: "DevOps - CloudAppi"
+  thumbnailUrl: EstherRamos.png
+  team: true
+-
+  id: 5
+  name: "Guillermo"
+  surname: "Medina"
+  title: "Front end Developer - CloudAppi"
+  thumbnailUrl: GuillermoMedina.jpeg
+  team: true
