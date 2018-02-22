@@ -45,8 +45,8 @@ c4sponsorsUrl: "mailto:contacta@apiaddicts.org?subject=Colaborar%20Starupylasapi
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
- #- {permalink: "/schedule/", text: "Agenda"}
- #- {permalink: "/speakers/", text: "Ponentes"}
+ - {permalink: "/schedule/", text: "Agenda"}
+ - {permalink: "/speakers/", text: "Ponentes"}
  - {permalink: "/team/", text: "Equipo"}
  #- {permalink: "/logistics/", text: "Logistica"}
  #- {permalink: "/hackathon/", text: "Hackathon"}
@@ -86,8 +86,8 @@ latestNewsTitle: "Últimas noticias"
 # Rockstar Speakers Block
 rockstarSpeakersImage: "ponencias.jpg"
 rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Ponentes de años anteriores"
-#rockstarSpeakersButtonText: "Ver todos"
+rockstarSpeakersTitle: "Ponentes"
+rockstarSpeakersButtonText: "Ver todos"
 
 # Location Block
 locationBlockTitle: "Ubicación"

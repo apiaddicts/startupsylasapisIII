@@ -1,21 +1,8 @@
 #ribbon:
 #  - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
 
-- 
-  id: 4
-  name: "Arturo"
-  surname: "Gonzalez Mac Dowell"
-  company: "Eurobits"
-  title: "President & CEO at Eurobits"
-  bio: 'All my professional career has pivoted around the introduction to market of high-tech products and services for the financial sector.
-  One of the achievements I am most proud of is the first Account Information Service in Europe which we have been offering through Eurobits since 2.004.'
-  thumbnailUrl: ArturoMacDowell.png
-  rockstar: true
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/arturo-gonzalez-mac-dowell-b1a302/"}
-
 -
-  id: 15
+  id: 1
   name: "Marco Antonio"
   surname: "Sanz"
   company: "Cloudappi"
@@ -32,9 +19,67 @@
     - {name: "site", link: "https://cloudappi.net"}
     - {name: "twitter", link: "https://twitter.com/marantonio82"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/marco-antonio-sanz-molina-prados-09733518/"}
-
+-
+  id: 2
+  name: "Cristina"
+  surname: "Villanova"
+  company: "Talent Hackers, Catenon"
+  title: "Directora de Marketing"
+  bio: ""
+  thumbnailUrl: CristinaVillanova.jpg
+  rockstar: true
+  social:
+    - {name: "site", link: "https://cloudappi.net"}
+    - {name: "twitter", link: "https://twitter.com/marantonio82"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/marco-antonio-sanz-molina-prados-09733518/"}
 - 
-  id: 16
+  id: 3
+  name: "Johan"
+  surname: "Sosa"
+  company: "Wannabot"
+  title: "CTO"
+  bio: ''
+  thumbnailUrl: JohanSosa.jpg
+  rockstar: true
+  social: 
+#    - {name: "linkedin", link: "https://www.linkedin.com/in/anavarro/"}
+#    - {name: "twitter", link: "https://twitter.com/alber_gp"}
+- 
+  id: 5
+  name: "Benito "
+  surname: "Méndez"
+  company: "Eurobits"
+  title: "CTO"
+  bio: ''
+  thumbnailUrl: BenitoMendez.jpg
+  rockstar: true
+  social: 
+- 
+  id: 6
+  name: "Álvaro"
+  surname: "Navarro"
+  company: "Amadeus"
+  title: "Developer Advocate en Amadeus IT Group"
+  bio: ''
+  thumbnailUrl: AlvaroNavarro.jpg
+  rockstar: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/anavarro/"}
+#    - {name: "twitter", link: "https://twitter.com/alber_gp"}
+- 
+  id: 7
+  name: "Pablo"
+  surname: "Solera"
+  company: "Google"
+  title: "Customer Engineer de Google Cloud"
+  bio: ''
+  thumbnailUrl: 
+  rockstar: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/anavarro/"}
+#    - {name: "twitter", link: "https://twitter.com/alber_gp"}
+- 
+  id: 8
   name: "Alberto"
   surname: "Gonzalez"
   company: "BBVA"
@@ -45,4 +90,3 @@
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/albertoglezpen/"}
     - {name: "twitter", link: "https://twitter.com/alber_gp"}
-

@@ -11,7 +11,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "API Days Madrid 2017"
-email: "jorge.baumann@apiaddicts.org"
+email: "contacta@apiaddicts.org"
 description: "Tu evento de APIs con un enfoque 360"
 baseurl: "/apidaysmad17"
 url: "https://apiaddicts.github.io"
@@ -25,7 +25,7 @@ siteVerification: "8syDqXyPBXLeDN4OObptLtn2xyRCTBo-W9lLWhkoW_A"
 organizerName: "API Addicts"
 organizerAlternateName: "API Addicts"
 organizerDescription: "Comunidad abierta en la que tratamos con pasión todos los aspectos de una API con un enfoque 360º"
-organizerEmail: "jorge.baumann@apiaddicts.org"
+organizerEmail: "contacta@apiaddicts.org"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://www.apiaddicts.org/"
 
@@ -38,7 +38,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
 c4pUrl: "https://goo.gl/forms/2kL5BflyoS4GBYXo1"
-c4sponsorsUrl: "mailto:jorge.baumann@apiaddicts.org?subject=Patrocinar%20API%20Days%20Madrid"
+c4sponsorsUrl: "mailto:contacta@apiaddicts.org?subject=Patrocinar%20API%20Days%20Madrid"
 
 
 # Navigation
@@ -191,7 +191,7 @@ footerBlocks:
  -
   title: "Contacto"
   links:
-   - {link: "mailto:jorge.baumann@apiaddicts.org", text: "jorge.baumann@apiaddicts.org"}
+   - {link: "mailto:contacta@apiaddicts.org", text: "contacta@apiaddicts.org"}
    - {link: "mailto:marcoantonio.sanz@apiaddicts.org", text: "marcoantonio.sanz@apiaddicts.org"}
  -
   title: "FAQ"
