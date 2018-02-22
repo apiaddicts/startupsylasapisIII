@@ -1,7 +1,7 @@
 - 
   group: ""
   elements: 
-    - {name: "Ryanair", description: "Ryanair- La mayor aerolinea de bajo coste de Europa", link: "https://developer.ryanair.com/", imageUrl: "ryanair.png"}
+  #  - {name: "Ryanair", description: "Ryanair- La mayor aerolinea de bajo coste de Europa", link: "https://developer.ryanair.com/", imageUrl: "ryanair.png"}
     - {name: "Amadeus", description: "Amadeus- Mayor proveedor de soluciones tecnológicas para el mundo de los viajes y el turismo", link: "http://www.amadeus.com/", imageUrl: "amadeus.png"}
     - {name: "BBVA API Market", description: "BBVA Api Market - plataforma global y abierta de APIs que te permite acceder a soluciones financieras de manera ágil e implementarlas fácilmente en tu empresa", link: "https://www.bbvaapimarket.com/", imageUrl: "bbvaapimarket.png"}
     - {name: "Cloudappi", description: "Cloudappi - Transformación digital a través de las APIs", link: "https://cloudappi.net/", imageUrl: "cloudappi.png"}
@@ -11,8 +11,8 @@
     - {name: "Apigee", description: "Apigee- Líder en soluciones de API Management ", link: "https://apigee.com", imageUrl: "apigee.png"}
     - {name: "Eurobits", description: "Eurobits- Mayor agregador financiero de Europa ", link: "https://eurobits.es/", imageUrl: "eurobits.png"}
     - {name: "Wannabot", description: "Wannabot- Plataforma de creación de ChatBots", link: "http://www.wannabot.io", imageUrl: "wannabot.png"}
-    - {name: "Talent Hackers", description: "Talent Hackers- Plataforma para ganar dinero referenciando a amigos ", link: "https://www.talenthackers.net/", imageUrl: "talenthackers.png"}
-    - {name: "Waima", description: "Waima- Plataforma de productos para sensorizar el mundo retail, tiendas o stands ", link: "http://www.waima.es/", imageUrl: "waima.png"}
+  #- {name: "Talent Hackers", description: "Talent Hackers- Plataforma para ganar dinero referenciando a amigos ", link: "https://www.talenthackers.net/", imageUrl: "talenthackers.png"}
+  # - {name: "Waima", description: "Waima- Plataforma de productos para sensorizar el mundo retail, tiendas o stands ", link: "http://www.waima.es/", imageUrl: "waima.png"}
 
 
 
