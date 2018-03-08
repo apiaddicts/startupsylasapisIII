@@ -21,17 +21,17 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/marco-antonio-sanz-molina-prados-09733518/"}
 -
   id: 2
-  name: "Cristina"
-  surname: "Villanova"
+  name: "Javier"
+  surname: "Álvarez"
   company: "Talent Hackers, Catenon"
-  title: "Directora de Marketing"
+  title: "IT Consultant | Full Stack Developer"
   bio: ""
-  thumbnailUrl: CristinaVillanova.jpg
+  thumbnailUrl: JavierAlvarez.jpg
   rockstar: true
   social:
-    - {name: "site", link: "https://cloudappi.net"}
-    - {name: "twitter", link: "https://twitter.com/marantonio82"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/marco-antonio-sanz-molina-prados-09733518/"}
+    # - {name: "site", link: "https://cloudappi.net"}
+    # - {name: "twitter", link: "https://twitter.com/marantonio82"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/javier-alvarez-it/"}
 - 
   id: 3
   name: "Johan"
@@ -73,20 +73,48 @@
   company: "Google"
   title: "Customer Engineer de Google Cloud"
   bio: ''
-  thumbnailUrl: 
+  thumbnailUrl: PabloSolera.jpg
   rockstar: true
   social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/anavarro/"}
+    # - {name: "linkedin", link: "https://www.linkedin.com/in/anavarro/"}
 #    - {name: "twitter", link: "https://twitter.com/alber_gp"}
 - 
   id: 8
   name: "Alberto"
   surname: "Gonzalez"
   company: "BBVA"
-  title: "Product Owner at BBVA Api Market"
-  bio: ''
+  title: "Product Owner www.bbvaapimarket.com - BBVA PayStats"
+  bio: 'Alberto González es el product owner de www.bbvaapimarket.com y responsable de negocio de la API PayStats en BBVA API_Market, la iniciativa de Open APIs de BBVA para potenciar la colaboración y partnerships con start-ups, grandes empresas y administraciones públicas a través del modelo de Open Banking. 
+Su trayectoria profesional incluye el desarrollo de la web www.bbva.es (seleccionada por Forrester como la mejor web europea de banca en 2017), así como la gestión técnica de distintos proyectos estratégicos en el ámbito de los nuevos negocios digitales, tanto en BBVA como en Beeva. 
+Scrum Master certificado, es además experto en el desarrollo de APIs abiertas, lenguajes de programación y bases de datos tales como Java, Spring, Node,SQL y NoSQL…
+Apasionado por la tecnología y la metodología agile, tiene también el grado de profesor de educación infantil y pasa la mayor parte de su tiempo libre  practicando deporte.'
   thumbnailUrl: AlbertoGonzalez.png
   rockstar: true
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/albertoglezpen/"}
     - {name: "twitter", link: "https://twitter.com/alber_gp"}
+- 
+  id: 9
+  name: "Rafa"
+  surname: "Pulido"
+  company: "BBVA"
+  title: "VP de Producto en Geoblink"
+  bio: 'Rafa Pulido es licenciado en informática por la UDL. Cuenta con más de ocho años de experiencia trabajando con equipos de producto en diferentes áreas: tecnología publicitaria y publicidad online, social media, cumplimiento legal, inteligencia de negocio y educación superior. Antes de unirse a Geoblink vivió 5 años en Londres trabajando como product leader, ayudando al crecimiento de startup tecnológicas. Rafa sigue formándose continuamente y está cursando un Máster ejecutivo en negocio digital en ESADE Business school. '
+  thumbnailUrl: RafaPulido.jpg
+  rockstar: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/rpulido/"}
+    - {name: "twitter", link: "https://twitter.com/rpulido"}
+- 
+  id: 10
+  name: "Pablo"
+  surname: "Narro"
+  company: "BBVA"
+  title: "Product Owner Retail Open APIs"
+  bio: 'Ingeniero informático y Master en desarrollos móviles con más de 6 años de experiencia en innovación tecnológica en BBVA. Scrum master apasionado por las metodologías agile. 
+Continuamente construyendo y desarrollando nuevos productos y servicios que contribuyan a situar a BBVA a la vanguardia de la tecnología financiera.'
+  thumbnailUrl: PabloNarro.jpg
+  rockstar: true
+  social: 
+    - {name: "linkedin", link: "www.linkedin.com/in/pablonarro"}
+    - {name: "twitter", link: "https://twitter.com/PabloNarroR"}

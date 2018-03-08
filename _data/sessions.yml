@@ -55,17 +55,17 @@
   complexity: "Intermediate"
 -
   id: 007
-  title: "Google??"
+  title: "Cómo gestionar las Apis con GCP puede hacer crecer tu startup"
   description: ""
   subtype: presentation
   speakers: [7]
   complexity: "Intermediate"
 -
   id: 008
-  title: "BBVA API Market potencia a las startups"
+  title: "BBVA API Market para startups. El caso de uso de PayStats: Geoblink. "
   description: ""
   subtype: presentation
-  speakers: [8]
+  speakers: [8,9,10]
   complexity: "Intermediate"
 -
   id: 009
