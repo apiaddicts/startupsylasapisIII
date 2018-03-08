@@ -1,1 +1,1 @@
-Sitemap: http://localhost:4000/startupsylasapis/sitemap.xml
+Sitemap: http://www.startupsylasapis.es/http://www.startupsylasapis.es/sitemap.xml
