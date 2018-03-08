@@ -54,6 +54,7 @@
   thumbnailUrl: BenitoMendez.jpg
   rockstar: true
   social: 
+    - {name: "twitter", link: "https://twitter.com/elton_bra "}
 - 
   id: 6
   name: "Álvaro"
