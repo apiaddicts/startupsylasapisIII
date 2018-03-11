@@ -38,7 +38,8 @@
   surname: "Sosa"
   company: "Wannabot"
   title: "CTO"
-  bio: ''
+  bio: 'Con más de 12 años desarrollando FullStack, actualmente soy socio fundador de WannaBot, plataforma nacida en España para crear ChatBots.
+Apasionado de las redes neuronales, los microservicios y la computación distribuida, sin dejar de lado la experiencia de usuario :)'
   thumbnailUrl: JohanSosa.jpg
   rockstar: true
   social: 
@@ -89,7 +90,7 @@
 Su trayectoria profesional incluye el desarrollo de la web www.bbva.es (seleccionada por Forrester como la mejor web europea de banca en 2017), así como la gestión técnica de distintos proyectos estratégicos en el ámbito de los nuevos negocios digitales, tanto en BBVA como en Beeva. 
 Scrum Master certificado, es además experto en el desarrollo de APIs abiertas, lenguajes de programación y bases de datos tales como Java, Spring, Node,SQL y NoSQL…
 Apasionado por la tecnología y la metodología agile, tiene también el grado de profesor de educación infantil y pasa la mayor parte de su tiempo libre  practicando deporte.'
-  thumbnailUrl: AlbertoGonzalez.png
+  thumbnailUrl: AlbertoGonzalezNew.png
   rockstar: true
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/albertoglezpen/"}
