@@ -1,1 +1,1 @@
-Sitemap: http://www.startupsylasapis.es/http://www.startupsylasapis.es/sitemap.xml
+Sitemap: https://startupsylasapis.apiaddicts.org/https://startupsylasapis.apiaddicts.org/sitemap.xml
