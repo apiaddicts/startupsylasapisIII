@@ -57,8 +57,8 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "portada.jpg"
-heroTitle: "Startup y las APIs III <typeout> 2018"
-eventDate: "11 Abril de 2018"
+heroTitle: "Startup y las APIs VI <typeout> 2021"
+eventDate: "12, 13, 14 y 15 Julio de 2021"
 typeoutTextValues: '"(Startups)", "(Tecnología)", "(Negocio)", "(Innovación)"'
 typeoutFallback: "(Portal de Apis)"
 heroButtons:
