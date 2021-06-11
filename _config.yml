@@ -51,9 +51,9 @@ navigationLinks:
  #- {permalink: "/logistics/", text: "Logistica"}
  #- {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- #- {link: "https://payments.leadgods.com/payment/apiaddicts/S59c7f35a961c8", text: "Obtener entradas"}
+ #- {link: "https://www.eventbrite.es/e/entradas-startups-y-las-apis-2021-157469817463", text: "Obtener entradas"}
 rightNavigationButtons:
- #- {link: "https://payments.leadgods.com/payment/apiaddicts/S59c7f35a961c8", text: "Obtener entradas"}
+ #- {link: "https://www.eventbrite.es/e/entradas-startups-y-las-apis-2021-157469817463", text: "Obtener entradas"}
 
 # Hero Block
 heroImage: "portada.jpg"
@@ -64,7 +64,7 @@ typeoutFallback: "(Portal de Apis)"
 heroButtons:
  #- {link: "https://goo.gl/forms/oUz11l4P0y5RtZrg2", text: "Enviar propuesta"}
  #- {permalink: "/#tickets", text: "Comprar entradas"}
- - {link: "https://apiaddicts.leadgods.com/payment-create/180729971f2fd52d1e8715f01c5d328375f34d9b", text: "Obtener entradas"}
+ - {link: "https://www.eventbrite.es/e/entradas-startups-y-las-apis-2021-157469817463", text: "Obtener entradas"}
 
 # About Block
 aboutTitle: "Startup y las APIs"
