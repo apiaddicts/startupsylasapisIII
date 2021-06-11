@@ -73,10 +73,16 @@ aboutBlock:
  - {title: "Grandes empresas que apoyan a startups", image: "workshop.jpg", text: "Porque las startups ya no están solas"}
 
 # Participa Block
-participaTitle: "Participa en el evento"
+participaTitle: "¿Quieres ser speaker?"
 participaText: "Seguro que tienes grandes cosas que contar ¡queremos escucharte!"
 participaButtonLink: "https://forms.gle/zzpwcjoENprtaKEh7"
 participaButtonText: "Enviar propuesta"
+
+# Concurso Block
+concursoTitle: "¿Tienes una startup?"
+concursoText: "Si utilizas APIs en tus modelos de negocio, ¡participa!"
+concursoButtonLink: "https://forms.gle/QnBTDutJunK1Zc7T9"
+concursoButtonText: "Me interesa"
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
