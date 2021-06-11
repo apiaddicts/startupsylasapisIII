@@ -1,15 +1,26 @@
 ---
 layout: post
-title:  "Sólo quedan 5 días para enviar propuestas"
-date:   2018-02-17 10:00:00
+title:  "¡Quedan pocos días para enviar tu propuesta!"
+date:   2021-06-10 10:02:12
 isStaticPost: false
 author: Marco Antonio sanz
 authorLink: https://twitter.com/ApiAddicts
 ---
 
 
-#### Corre y envía tu propuesta, el 25 de Febrero se acaba el plazo.
+#### Corre y envía tu propuesta, en breve se acaba el plazo.
 
-Como todos los años, estamos organizando la tercera edición de Startups y las Apis, esta vez en coordinación con Google, dónde ya han participado empresas como BBVA Api Market, Eurobits, Unax, Pangea, Evolufarma, Startupxplore... Si dentro de tu startup  las Apis son importantes o si trabajas en una gran empresa dónde se está trabajando con startups ofreciéndole las Apis, no dudes en enviarnos tu propuesta. Nos interesan tanto propuestas técnicas como funcionales, ¡¡ Así que no te cortes!!
+Llega la 6ª edición de uno de los eventos más disruptivos que existen en el panorama actual de las Startups con presencia en España y América Latina. 
 
-Para enviar la propuesta, completad por favor el siguiente cuestionario https://lnkd.in/grHrBQD
+Este 2021 además, el evento incluye dos grandes novedades:
+· CONCURSO A LA MEJOR STARTUP -> Inscríbete en este formulario si tu Startup utiliza APIs en sus modelos de negocio -> ¡¡La mejor Startup ganará una auditoría de APIs!! Rellena este cuestionario si quieres participar en este concuro: https://forms.gle/QnBTDutJunK1Zc7T9
+· CURSO DISEÑO PRODUCTO PARA STARTUPS -> El primer día del evento será de acceso exclusivo para aquellos que quieran recibir una masterclass por un APIExpert sobre cómo implementar un producto digital exitoso en su proyecto. No te lo pienses, las PLAZAS son LIMITADAS!
+
+
+AGENDA Y TEMÁTICAS:
+12/06 -> Curso exclusivo  Diseño de Productos para Startups
+13/06 ->  FINTECH
+14/06 ->  HUMAN TECH
+15/06 ->  INSURTECH
+
+Para enviar tu propuesta, completa por favor, el siguiente cuestionario: https://forms.gle/9vpHpRug1u1gdfew5

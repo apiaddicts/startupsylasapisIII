@@ -62,7 +62,7 @@ eventDate: "11 Octubre de 2017"
 typeoutTextValues: '"(Definición)", "(Seguridad)", "(Negocio)", "(Desarrollo)"'
 typeoutFallback: "(Definición)"
 heroButtons:
- #- {link: "https://goo.gl/forms/oUz11l4P0y5RtZrg2", text: "Enviar propuesta"}
+ #- {link: "hhttps://forms.gle/9vpHpRug1u1gdfew5", text: "Enviar propuesta"}
  #- {permalink: "/#tickets", text: "Comprar entradas"}
  #- {link: "https://www.eventbrite.es/e/entradas-startups-y-las-apis-2021-157469817463", text: "Obtener entradas"}
 

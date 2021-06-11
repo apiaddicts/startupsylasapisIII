@@ -30,14 +30,14 @@ organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://www.apiaddicts.org/"
 
 # Head
-metaKeywords: "evento, api, apiaddicts, cloudappi, REST, node, .NET, meetup, developers, Madrid, startups"
+metaKeywords: "evento, api, apiaddicts, cloudappi, REST, node, .NET, meetup, developers, Madrid, startups,apigee, innovacion,"
 twitterAccount: "@apiaddicts"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "https://goo.gl/forms/2kL5BflyoS4GBYXo1"
+c4pUrl: "https://forms.gle/9vpHpRug1u1gdfew5"
 c4sponsorsUrl: "mailto:contacta@apiaddicts.org?subject=Colaborar%20StarupylasapisIII"
 
 
@@ -57,12 +57,12 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "portada.jpg"
-heroTitle: "Startup y las APIs VI <typeout> 2021"
+heroTitle: "Startups y las APIs VI<typeout>"
 eventDate: "12, 13, 14 y 15 Julio de 2021"
 typeoutTextValues: '"(Startups)", "(Tecnología)", "(Negocio)", "(Innovación)"'
 typeoutFallback: "(Portal de Apis)"
 heroButtons:
- #- {link: "https://goo.gl/forms/oUz11l4P0y5RtZrg2", text: "Enviar propuesta"}
+ #- {link: "https://forms.gle/9vpHpRug1u1gdfew5", text: "Enviar propuesta"}
  #- {permalink: "/#tickets", text: "Comprar entradas"}
  - {link: "https://www.eventbrite.es/e/entradas-startups-y-las-apis-2021-157469817463", text: "Obtener entradas"}
 
