@@ -75,9 +75,8 @@ aboutBlock:
 # Participa Block
 participaTitle: "Participa en el evento"
 participaText: "Seguro que tienes grandes cosas que contar ¡queremos escucharte!"
-participaButton:
- buttonLink: "https://forms.gle/zzpwcjoENprtaKEh7"
- buttonText: "Enviar propuesta"
+participaButtonLink: "https://forms.gle/zzpwcjoENprtaKEh7"
+participaButtonText: "Enviar propuesta"
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
