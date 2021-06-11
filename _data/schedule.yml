@@ -5,7 +5,7 @@
     - {title: "Auditorio", color: "#90be4e"}
   timeslots:
     - {
-        startTime: "18:30",
+        startTime: "18:35",
         endTime: "18:45",
         sessionIds: [000]
     }
