@@ -71,7 +71,16 @@ aboutTitle: "Startups y las APIs"
 aboutBlock:
  - {title: "Startups", image: "conference.jpg", text: "Startups dónde las APIs son muy importantes"}
  - {title: "Grandes empresas que apoyan a startups", image: "workshop.jpg", text: "Porque las startups ya no están solas"}
- 
+
+# Participa Block
+participaTitle: "Participa en el evento"
+participaTexto: "Seguro que tienes grandes cosas que contar ¡queremos escucharte!"
+participaBlock:
+ - {title: "¿Quieres ser speaker?", image: "ponencias.jpg"}
+participaButton:
+ buttonLink: "https://forms.gle/zzpwcjoENprtaKEh7"
+ buttonText: "Enviar propuesta"
+
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
