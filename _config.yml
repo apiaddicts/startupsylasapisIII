@@ -74,9 +74,7 @@ aboutBlock:
 
 # Participa Block
 participaTitle: "Participa en el evento"
-participaTexto: "Seguro que tienes grandes cosas que contar ¡queremos escucharte!"
-participaBlock:
- - {title: "¿Quieres ser speaker?", image: "ponencias.jpg"}
+participaText: "Seguro que tienes grandes cosas que contar ¡queremos escucharte!"
 participaButton:
  buttonLink: "https://forms.gle/zzpwcjoENprtaKEh7"
  buttonText: "Enviar propuesta"
