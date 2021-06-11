@@ -67,6 +67,20 @@ heroButtons:
  - {link: "https://www.eventbrite.es/e/entradas-startups-y-las-apis-2021-157469817463", text: "Obtener entradas"}
 
 # About Block
+aboutTitle: "Participa en el evento"
+aboutBlock:
+ - {title: "Speaker", image: "conference.jpg", text: "¡Seguro que tienes grandes cosas que contar ¡y queremos escucharte!" }
+ heroButtons:
+ #- {link: "https://forms.gle/9vpHpRug1u1gdfew5", text: "Enviar propuesta"}
+ #- {permalink: "/#tickets", text: "Comprar entradas"}
+ - {link: "https://forms.gle/zzpwcjoENprtaKEh7", text: "Enviar propuesta"}
+ - {title: "¡Concursa con tu startup!", image: "workshop.jpg", text: "¿Utilizas APIs en tus modelos de negocio? ¡Participa!" }
+  heroButtons:
+ #- {link: "https://forms.gle/9vpHpRug1u1gdfew5", text: "Enviar propuesta"}
+ #- {permalink: "/#tickets", text: "Comprar entradas"}
+ - {link: "https://forms.gle/QnBTDutJunK1Zc7T9", text: "Inscribirme"}
+
+ # About Block
 aboutTitle: "Startup y las APIs"
 aboutBlock:
  - {title: "Startups", image: "conference.jpg", text: "Startups dónde las APIs son muy importantes" }
