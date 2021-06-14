@@ -82,7 +82,7 @@ participaButtonText: "Enviar mi propuesta"
 concursoTitle: "Concurso para startups"
 concursoText: "Si utilizas APIs en tus modelos de negocio, ¡participa!"
 concursoButtonLink: "https://forms.gle/QnBTDutJunK1Zc7T9"
-concursoButtonText: "Me interesa"
+concursoButtonText: "¡Me interesa!"
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
