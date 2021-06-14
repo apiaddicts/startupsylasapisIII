@@ -76,18 +76,3 @@
   rockstar: true
   social: 
     - {name: "linkedin", link: "https://es.linkedin.com/in/jdetoro-product-manager"}
-- 
-  id: 7
-  name: "Alberto"
-  surname: "Gonzalez"
-  company: "BBVA"
-  title: "Product Owner www.bbvaapimarket.com - BBVA PayStats"
-  bio: "Alberto González es el product owner de www.bbvaapimarket.com y responsable de negocio de la API PayStats en BBVA API_Market, la iniciativa de Open APIs de BBVA para potenciar la colaboración y partnerships con start-ups, grandes empresas y administraciones públicas a través del modelo de Open Banking. 
-Su trayectoria profesional incluye el desarrollo de la web www.bbva.es (seleccionada por Forrester como la mejor web europea de banca en 2017), así como la gestión técnica de distintos proyectos estratégicos en el ámbito de los nuevos negocios digitales, tanto en BBVA como en Beeva. 
-Scrum Master certificado, es además experto en el desarrollo de APIs abiertas, lenguajes de programación y bases de datos tales como Java, Spring, Node,SQL y NoSQL…
-Apasionado por la tecnología y la metodología agile, tiene también el grado de profesor de educación infantil y pasa la mayor parte de su tiempo libre  practicando deporte."
-  thumbnailUrl: AlbertoGonzalezNew.png
-  rockstar: true
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/albertoglezpen/"}
-    - {name: "twitter", link: "https://twitter.com/alber_gp"}

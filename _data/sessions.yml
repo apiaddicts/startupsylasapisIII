@@ -37,8 +37,6 @@
   title: "Concurso"
   description: ""
   subtype: keynote
-  speakers: [4]
-  complexity: "Expert"
 -
   id: 005
   title: "Del negocio tradicional a Digital Lender del Siglo XXI"
@@ -46,21 +44,21 @@
   que trajo consigo el cambio forzado hacia el mundo on-line. Pepper viró de manera drástica hacia el mundo de las APIs, la nube, los microservicios y nuevas tecnologías. 
   Esta es una historia de éxito de cómo se transforma una empresa en tiempo récord, desde un negocio tradicional a ser un digital lender del siglo XXI gracias a la APIficación."
   subtype: presentation
-  speakers: [5]
+  speakers: [4]
   complexity: "Expert"
 -
   id: 006
   title: "Solo un tecky puede evaluar a otro tecky"
   description: "El método que evalúa los mejores talentos teckys. Ayudamos a las empresas a incorporar en sus equipos los mejores teckys con un gran valor técnico y profesional."
   subtype: presentation
-  speakers: [6]
+  speakers: [5]
   complexity: "Expert"
 -
   id: 007
   title: "Las APIs del talento"
   description: "¿Somos capaces de encontrar el momento ideal para cambiar de puesto? En Talent Hackers hemos desarrollado un modelo de ML que permite, a través de un servicio API, conocer la probabilidad con la que un profesional está abierto a un cambio o la probabilidad que el cambio va a ser beneficioso para él/ella."
   subtype: presentation
-  speakers: [7]
+  speakers: [6]
   complexity: "Expert"
 -
   id: 009
