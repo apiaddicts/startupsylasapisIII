@@ -40,13 +40,12 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 c4pUrl: "https://forms.gle/9vpHpRug1u1gdfew5"
 c4sponsorsUrl: "mailto:contacta@apiaddicts.org?subject=Colaborar%20StarupylasapisIII"
 
-
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Agenda"}
- # - {permalink: "/speakers/", text: "Ponentes"}
+ - {permalink: "/speakers/", text: "Ponentes"}
  - {permalink: "/team/", text: "Equipo"}
  #- {permalink: "/logistics/", text: "Logistica"}
  #- {permalink: "/hackathon/", text: "Hackathon"}
