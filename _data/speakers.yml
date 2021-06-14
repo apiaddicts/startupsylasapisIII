@@ -43,7 +43,7 @@
   social: 
    - {name: "linkedin", link: "https://www.linkedin.com/in/rogerferrandis/"}
 - 
-  id: 5
+  id: 4
   name: "Raúl"
   surname: "Sánchez"
   company: "Pepper Money"
@@ -54,7 +54,7 @@
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/raulsg/"}
 - 
-  id: 6
+  id: 5
   name: "Luci"
   surname: "Sánchez"
   company: "Ninja Talent"
@@ -66,7 +66,7 @@
   - {name: "site", link: "https://ninjatalent.net/"}
   - {name: "linkedin", link: "https://www.linkedin.com/in/mlutgardasanchez/"}
 - 
-  id: 7
+  id: 6
   name: "Juan"
   surname: "de Toro"
   company: "Talent Hackers"
@@ -77,7 +77,7 @@
   social: 
   - {name: "linkedin", link: "https://es.linkedin.com/in/jdetoro-product-manager"}
 - 
-  id: 8
+  id: 7
   name: "Alberto"
   surname: "Gonzalez"
   company: "BBVA"
@@ -91,28 +91,3 @@ Apasionado por la tecnología y la metodología agile, tiene también el grado d
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/albertoglezpen/"}
     - {name: "twitter", link: "https://twitter.com/alber_gp"}
-- 
-  id: 9
-  name: "Rafa"
-  surname: "Pulido"
-  company: "BBVA"
-  title: "VP de Producto en Geoblink"
-  bio: 'Rafa Pulido es licenciado en informática por la UDL. Cuenta con más de ocho años de experiencia trabajando con equipos de producto en diferentes áreas: tecnología publicitaria y publicidad online, social media, cumplimiento legal, inteligencia de negocio y educación superior. Antes de unirse a Geoblink vivió 5 años en Londres trabajando como product leader, ayudando al crecimiento de startup tecnológicas. Rafa sigue formándose continuamente y está cursando un Máster ejecutivo en negocio digital en ESADE Business school. '
-  thumbnailUrl: RafaPulido.jpg
-  rockstar: true
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/rpulido/"}
-    - {name: "twitter", link: "https://twitter.com/rpulido"}
-- 
-  id: 10
-  name: "Pablo"
-  surname: "Narro"
-  company: "BBVA"
-  title: "Product Owner Retail Open APIs"
-  bio: 'Ingeniero informático y Master en desarrollos móviles con más de 6 años de experiencia en innovación tecnológica en BBVA. Scrum master apasionado por las metodologías agile. 
-Continuamente construyendo y desarrollando nuevos productos y servicios que contribuyan a situar a BBVA a la vanguardia de la tecnología financiera.'
-  thumbnailUrl: PabloNarro.jpg
-  rockstar: true
-  social: 
-    - {name: "linkedin", link: "www.linkedin.com/in/pablonarro"}
-    - {name: "twitter", link: "https://twitter.com/PabloNarroR"}
