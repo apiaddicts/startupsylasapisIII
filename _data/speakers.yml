@@ -41,7 +41,7 @@
   thumbnailUrl: RogerFerrandis.jpeg.jpg
   rockstar: true
   social: 
-   - {name: "linkedin", link: "https://www.linkedin.com/in/rogerferrandis/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/rogerferrandis/"}
 - 
   id: 4
   name: "Raúl"
@@ -63,8 +63,8 @@
   thumbnailUrl: LuciSanchez.jpeg
   rockstar: true
   social: 
-  - {name: "site", link: "https://ninjatalent.net/"}
-  - {name: "linkedin", link: "https://www.linkedin.com/in/mlutgardasanchez/"}
+    - {name: "site", link: "https://ninjatalent.net/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/mlutgardasanchez/"}
 - 
   id: 6
   name: "Juan"
@@ -75,7 +75,7 @@
   thumbnailUrl: JuanDeToro.jpeg
   rockstar: true
   social: 
-  - {name: "linkedin", link: "https://es.linkedin.com/in/jdetoro-product-manager"}
+    - {name: "linkedin", link: "https://es.linkedin.com/in/jdetoro-product-manager"}
 - 
   id: 7
   name: "Alberto"
