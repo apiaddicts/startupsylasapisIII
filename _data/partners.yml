@@ -2,7 +2,7 @@
   group: ""
   elements: 
     - {name: "Amadeus", description: "Amadeus- Mayor proveedor de soluciones tecnológicas para el mundo de los viajes y el turismo", link: "http://www.amadeus.com/", imageUrl: "amadeus.png"}
-    - {name: "Ninja Talent", description: "Selecciona profesionales de la tecnología mediante el método que evalúa los mejores talentos teckys.", link: "https://ninjatalent.net/", imageUrl: "NinjaTalent.png"}
+    - {name: "Ninja Talent", description: "Selecciona profesionales de la tecnología mediante el método que evalúa los mejores talentos teckys.", link: "https://ninjatalent.net/", imageUrl: "ninjatalent.png"}
     - {name: "CloudAPPi", description: "Transformación digital a través de las APIs", link: "https://cloudappi.net/", imageUrl: "cloudappi-h.png"}
     - {name: "Axway", description: "Líder en el Magic Quadrant de Gartner 2020 para la gestión del ciclo de vida completo de API.", link: "https://www.axway.es/", imageUrl: "axway.png"}
     - {name: "Waima", description: "Waima- Plataforma de productos para sensorizar el mundo retail, tiendas o stands.", link: "http://www.waima.es/", imageUrl: "waima-new.png"}
