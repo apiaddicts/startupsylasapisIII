@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "Startups y las Apis III"
+title: "Startups y las Apis VI"
 email: "contacta@apiaddicts.org"
 description: "El evento que muestra la importancia de las APIs para las startups"
 baseurl: "https://startupsylasapis.apiaddicts.org"
@@ -45,9 +45,9 @@ c4sponsorsUrl: "mailto:contacta@apiaddicts.org?subject=Colaborar%20Starupylasapi
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Agenda"}
- - {permalink: style="display: none" "/speakers/", text: "Ponentes"}
- - {permalink: style="display: none" "/team/", text: "Equipo"}
+ # - {permalink: "/schedule/", text: "Agenda"}
+ # - {permalink: "/speakers/", text: "Ponentes"}
+ - {permalink: "/team/", text: "Equipo"}
  #- {permalink: "/logistics/", text: "Logistica"}
  #- {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
@@ -57,7 +57,7 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "portada.jpg"
-heroTitle: "Startups y las APIs VI<typeout>"
+heroTitle: "Startups y las APIs VI <typeout>"
 eventDate: "12, 13, 14 y 15 Julio de 2021"
 typeoutTextValues: '"(Startups)", "(Tecnología)", "(Negocio)", "(Innovación)"'
 typeoutFallback: "(Portal de Apis)"
