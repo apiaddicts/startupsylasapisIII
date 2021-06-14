@@ -1,10 +1,12 @@
-<section id="participa" class="participa">
-    <h3>{{ site.participaTitle }}</h3>
-    <h5>{{ site.participaText }}</h5>
-    <img class="img-circle" src="{{ site.baseurl }}/img/about-section/conference.jpg" height="128" width="128">
-    <br>
-    <br>
-    <br>
-    <br>
-    <a class="btn btn-primary waves-effect waves-button waves-light waves-float" href="{{ site.participaButtonLink }}" target="_blank">{{ site.participaButtonText }}</a>
+<!-- Begin Paticipa Section -->
+<section id="participa" class="participa image-section parallax" style="background-image: url({{ site.baseurl }}/img/sections-background/{{ site.rockstarSpeakersImage }});">
+    <div class="overlay solid-overlay"></div>
+    <div class="content-wrapper">
+        <div class="col-md-8 col-md-offset-2">
+            <h3>{{ site.participaTitle }} <a href="https://forms.gle/zzpwcjoENprtaKEh7" target="_blank"> Enviar propuesta</a></h3>
+            <h5>{{ site.participaText }}</h5>
+        </div>
+    </div>
 </section>
+<!-- End Participa Section -->
+

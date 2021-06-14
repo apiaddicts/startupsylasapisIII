@@ -45,7 +45,7 @@ c4sponsorsUrl: "mailto:contacta@apiaddicts.org?subject=Colaborar%20Starupylasapi
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
- # - {permalink: "/schedule/", text: "Agenda"}
+ - {permalink: "/schedule/", text: "Agenda"}
  # - {permalink: "/speakers/", text: "Ponentes"}
  - {permalink: "/team/", text: "Equipo"}
  #- {permalink: "/logistics/", text: "Logistica"}
