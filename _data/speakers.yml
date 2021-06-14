@@ -5,13 +5,12 @@
   id: 1
   name: "Marco Antonio"
   surname: "Sanz"
-  company: "Cloudappi"
-  title: "CEO at LeadGods, Founder at CloudAppi"
-  bio: "Más de 10 años de experiencia en el sector. He liderado proyectos tan importantes como el registro central de medidas cautelares y violencia doméstica del Ministerio de Justicia,
+  company: "CloudAPPi"
+  title: "CEO at CloudAppi && Waima"
+  bio: "Más de 15 años de experiencia en el sector. He liderado proyectos tan importantes como el registro central de medidas cautelares y violencia doméstica del Ministerio de Justicia,
   el departamento de explotación, receta XXI y incapacidad temporal de Indra dentro del Servicio Andaluz de Salud y el departamento de Apis internas del BBVA, entre las que se encontraba entre otros proyecto, el ticket digital. <br>
-        Soy fundador de API Addicts, uno de los grupos de charlas más importante sobre APIs. <br>
-        Hace +2 años, monté CloudAppi, una empresa de innovación ubicada en Getafe, especializada en Apis, web apps y desarrollar infraestructuras Cloud. <br>
-        En Octubre del 2016, cree la empresa LeadGods, una plataforma de venta de productos digitales que había transaccionado este año más de 2 millones de dólares. <br>
+        Fundador de API Addicts, uno de los grupos de charlas más importante sobre APIs. <br>
+        Hace +6 años, monté CloudAPPi, una empresa de innovación ubicada en Getafe, especializada en Apis, web apps y desarrollar infraestructuras Cloud. <br>
         Con todo esto, todavía me queda tiempo para ser profesor de la universidad Francisco de Victoria en HCI."
   thumbnailUrl: MarcoAntonio.png
   rockstar: true
@@ -21,65 +20,62 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/marco-antonio-sanz-molina-prados-09733518/"}
 -
   id: 2
-  name: "Javier"
-  surname: "Álvarez"
-  company: "Talent Hackers, Catenon"
-  title: "IT Consultant | Full Stack Developer"
-  bio: ""
-  thumbnailUrl: JavierAlvarez.jpg
+  name: "Juan Manuel"
+  surname: "Fernández"
+  company: "Arcopay, Afterbanks"
+  title: "Head Of Platform"
+  bio: "La visión técnica como el roadmap del producto y su adaptación para los distintos retos y casos de uso que los clientes nos plantean. Su motivación, es la de 
+  aportar un valor diferencial a los clientes de Afterbanks a través de la innovación, la flexibilidad y la excelencia técnica, liderando desde esta posición tanto 
+  la evolución orgánica del producto como su crecimiento a través de la sinergia con proveedores y partners donde dicha sinergia aporta verdadero valor y manteniendo siempre la política de desarrollo in-house del producto."
+  thumbnailUrl: JuanManuel-Arcopay.jpg
   rockstar: true
   social:
-    # - {name: "site", link: "https://cloudappi.net"}
-    # - {name: "twitter", link: "https://twitter.com/marantonio82"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/javier-alvarez-it/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/juanmfarango/"}
 - 
   id: 3
-  name: "Johan"
-  surname: "Sosa"
-  company: "Wannabot"
-  title: "CTO"
-  bio: 'Con más de 12 años desarrollando FullStack, actualmente soy socio fundador de WannaBot, plataforma nacida en España para crear ChatBots.
-Apasionado de las redes neuronales, los microservicios y la computación distribuida, sin dejar de lado la experiencia de usuario :)'
-  thumbnailUrl: JohanSosa.jpg
+  name: "Roger"
+  surname: "Ferrandis"
+  company: "Wenalyze"
+  title: "COO at Wenalyze"
+  bio: 'COO y Cofundador en Wenalyze. Más de 8 años de experiencia como analista así como amplia experiencia como director de proyectos.'
+  thumbnailUrl: RogerFerrandis.jpeg.jpg
   rockstar: true
   social: 
-#    - {name: "linkedin", link: "https://www.linkedin.com/in/anavarro/"}
-#    - {name: "twitter", link: "https://twitter.com/alber_gp"}
+   - {name: "linkedin", link: "https://www.linkedin.com/in/rogerferrandis/"}
 - 
   id: 5
-  name: "Benito "
-  surname: "Méndez"
-  company: "Eurobits"
-  title: "CTO"
-  bio: 'Ingeniero Informático, Máster Universitario en informática Móvil, Máster en Ingeniería del Software, cursando Doctorado en Tecnologías de la Información y Comunicaciones en la disciplina académica de Estadística y Ciencias de la Decisión. Contrastada experiencia en la dirección y gestión de proyectos innovadores con equipos multidisciplinares de alto rendimiento bajo metodologías ágiles en entornos financieros. Integrante del equipo que inició la transformación digital en BBVA en 2014 hasta 2017 y actualmente CTO en Eurobits con la misión de transformar el modo en que personas y empresas interactúan con los servicios financieros.'
-  thumbnailUrl: BenitoMendez.jpg
+  name: "Raúl"
+  surname: "Sánchez"
+  company: "Pepper Money"
+  title: "Chief Technology Officer"
+  bio: 'Más de 20 años de experiencia en el sector de la tecnología. Emprendedor y arquitecto desde 2009. Apasionado de la tecnología, las API's y los microservicios.'
+  thumbnailUrl: RaulSanchez.jpg
   rockstar: true
   social: 
-    - {name: "twitter", link: "https://twitter.com/elton_bra "}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/raulsg/"}
 - 
   id: 6
-  name: "Álvaro"
-  surname: "Navarro"
-  company: "Amadeus"
-  title: "Developer Advocate en Amadeus IT Group"
+  name: "Luci"
+  surname: "Sánchez"
+  company: "Ninja Talent"
+  title: "CEO en Ninja Talent | Profesora en Universidad Francisco de Vitoria"
   bio: ''
-  thumbnailUrl: AlvaroNavarro.jpg
+  thumbnailUrl: LuciSanchez.jpeg
   rockstar: true
   social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/anavarro/"}
-#    - {name: "twitter", link: "https://twitter.com/alber_gp"}
+  - {name: "site", link: "https://ninjatalent.net/"}
+  - {name: "linkedin", link: "https://www.linkedin.com/in/mlutgardasanchez/"}
 - 
   id: 7
-  name: "Pablo"
-  surname: "Solera"
-  company: "Google"
-  title: "Customer Engineer de Google Cloud"
-  bio: ''
-  thumbnailUrl: PabloSolera.jpg
+  name: "Juan"
+  surname: "de Toro"
+  company: "Talent Hackers"
+  title: "Product Manager | Ing. Telecomunicaciones"
+  bio: 'Siempre pegado a producto, en mis inicios como desarrollador y ahora como PM, he estado en industrias y sectores diferentes, sin embargo desde hace 6 años estoy centrado en crear soluciones para RRHH y las personas.'
+  thumbnailUrl: JuanDeToro.jpeg
   rockstar: true
   social: 
-    # - {name: "linkedin", link: "https://www.linkedin.com/in/anavarro/"}
-#    - {name: "twitter", link: "https://twitter.com/alber_gp"}
+  - {name: "linkedin", link: "https://es.linkedin.com/in/jdetoro-product-manager"}
 - 
   id: 8
   name: "Alberto"

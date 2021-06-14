@@ -5,71 +5,66 @@
 
 -
   id: 000
-  title: "Registro y Entrada"
-  description: "No llegues tarde si no te quieres perder nada"
+  title: "Comienzo del evento"
+  description: "¡TE ESPERAMOS!"
   service: true
 -
-  id: 001
-  title: "Reinventando negocios tradicionales"
-  subtype: presentation
-  description: "A veces, ofrecer soluciones como un gestor de turnos, parece algo muy tradicional. Gracias
-  a tecnología IoT y las Apis, podemos reinventar productos dónde todo ya parecía inventados ."
-  speakers: [1]
-  complexity: "Intermediate"
+#  id: 001
+#  title: "Reinventando negocios tradicionales"
+#  subtype: presentation
+#  description: "A veces, ofrecer soluciones como un gestor de turnos, parece algo muy tradicional. Gracias
+#  a tecnología IoT y las Apis, podemos reinventar productos dónde todo ya parecía inventados ."
+#  speakers: [1]
+# complexity: "Intermediate"
 
 -
   id: 002
-  title: "TalenHackers o la uberización del Recruiting"
-  description: ""
+  title: "Arcopay, un nuevo medio de pago PSD2"
   subtype: presentation
+  description: "Nuestro iniciador de pagos es una solución muy potente que se presenta como una alternativa más de pago frente a las opciones actuales. "
   speakers: [2]
-  complexity: "Intermediate"
+  complexity: "Expert"
 
 -
   id: 003
-  title: "El futuro de los ChatBots pasa por el consumo de APIs"
-  description: " el futuro de los ChatBots pasa por consumir APIs de terceros para completar la experiencia y responder a las necesidades del usuario, desde entenderle mejor hasta contratar un servicio"
+  title: "Cómo optimizar procesos de aseguradoras y bancos mediante API"
+  description: "Las conexiones API habilitan el intercambio en tiempo real de datos, posibilitando la automatización y optimización de algunos procesos internos en el sector financiero."
   subtype: keynote
   speakers: [3]
   complexity: "Expert"
 -
   id: 004
-  title: "Sorteo"
+  title: "Concurso"
   description: ""
   subtype: keynote
   speakers: [4]
   complexity: "Expert"
 -
   id: 005
-  title: "Reduciendo el on-boarding de nuestros clientes para poder dar cobertura a las startups"
-  description: "Veremos las ventajas que aportan a la gestión de APIs mediante un API Manager a una compañía que quiere poder dar cobertura a clientes grandes y pequeños."
+  title: "Del negocio tradicional a Digital Lender del Siglo XXI"
+  description: "Pepper nació hace 16 años como empresa de financiación al consumo en punto de venta físico. Líderes y cómodos en su sector, el negocio siempre fue igual hasta la crisis de la COVID
+  que trajo consigo el cambio forzado hacia el mundo on-line. Pepper viró de manera drástica hacia el mundo de las APIs, la nube, los microservicios y nuevas tecnologías. 
+  Esta es una historia de éxito de cómo se transforma una empresa en tiempo récord, desde un negocio tradicional a ser un digital lender del siglo XXI gracias a la APIficación."
   subtype: presentation
   speakers: [5]
   complexity: "Expert"
 -
   id: 006
-  title: "Amadeus y APIs: Todos los destinos a una llamada de distancia."
-  description: "En esta charla contaremos cómo las APIs de Amadeus están creando valor dentro de la industria de viajes y les están ayudando a conectar con startups. En particular, hablaremos de la definición del gobierno de APIs y del uso de servicios como Apigee en Amadeus."
+  title: "Solo un tecky puede evaluar a otro tecky"
+  description: "El método que evalúa los mejores talentos teckys. Ayudamos a las empresas a incorporar en sus equipos los mejores teckys con un gran valor técnico y profesional."
   subtype: presentation
   speakers: [6]
-  complexity: "Intermediate"
+  complexity: "Expert"
 -
   id: 007
-  title: "Cómo gestionar las Apis con GCP puede hacer crecer tu startup"
-  description: ""
+  title: "Las APIs del talento"
+  description: "¿Somos capaces de encontrar el momento ideal para cambiar de puesto? En Talent Hackers hemos desarrollado un modelo de ML que permite, a través de un servicio API, conocer la probabilidad con la que un profesional está abierto a un cambio o la probabilidad que el cambio va a ser beneficioso para él/ella."
   subtype: presentation
   speakers: [7]
-  complexity: "Intermediate"
--
-  id: 008
-  title: "BBVA API Market para startups. El caso de uso de PayStats: Geoblink. "
-  description: ""
-  subtype: presentation
-  speakers: [8,9,10]
-  complexity: "Intermediate"
+  complexity: "Expert"
 -
   id: 009
-  title: "Final del evento"
+  title: "Fin del evento"
   description: ""
   subtype: presentation
   complexity: "Intermediate"
