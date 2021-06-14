@@ -1,29 +1,34 @@
 - 
   group: ""
   elements: 
-    #- {name: "Ryanair", description: "Ryanair- La mayor aerolinea de bajo coste de Europa", link: "https://developer.ryanair.com/", imageUrl: "ryanair.png"}
     - {name: "Amadeus", description: "Amadeus- Mayor proveedor de soluciones tecnológicas para el mundo de los viajes y el turismo", link: "http://www.amadeus.com/", imageUrl: "amadeus.png"}
-    - {name: "Minube", description: "Donde empiezan los viajes", link: "https://www.minube.com/", imageUrl: "minube.jpg"}
-    - {name: "BBVA API Market", description: "BBVA Api Market - plataforma global y abierta de APIs que te permite acceder a soluciones financieras de manera ágil e implementarlas fácilmente en tu empresa", link: "https://www.bbvaapimarket.com/", imageUrl: "bbvaapimarket.png"}
-    - {name: "Cloudappi", description: "Cloudappi - Transformación digital a través de las APIs", link: "https://cloudappi.net/", imageUrl: "cloudappi-h.png"}
-    - {name: "StackOverflow", description: "StackOverflow - mayor sitio de preguntas y respuestas de developers", link: "https://es.stackoverflow.com/", imageUrl: "stackoverflowes.png"} 
-   # - {name: "Interaction Mobile", description: "Interaction Mobile- Líderes en soluciones de second screen", link: "http://new.interactionmobile.com/", imageUrl: "interactionmobile.png"}
-    - {name: "Dexma", description: "Dexma- Líder en soluciones de monitorización en ", link: "https://www.dexma.com/es/", imageUrl: "dexma.png"}
-    #- {name: "Apigee", description: "Apigee- Líder en soluciones de API Management ", link: "https://apigee.com", imageUrl: "apigee.png"}
-    - {name: "Eurobits", description: "Eurobits- Mayor agregador financiero de Europa ", link: "https://eurobits.es/", imageUrl: "eurobits.png"}
-    - {name: "Wannabot", description: "Wannabot- Plataforma de creación de ChatBots", link: "http://www.wannabot.io", imageUrl: "wannabot.png"}
-    - {name: "Google Cloud", description: "La plataforma dónde puedes crear y alojar aplicaciones y sitios web, almacenar datos y analizarlos en la infraestructura escalable de Google.", link: "https://cloud.google.com/?hl=es", imageUrl: "googleCloud.png"}
-    
-  #- {name: "Talent Hackers", description: "Talent Hackers- Plataforma para ganar dinero referenciando a amigos ", link: "https://www.talenthackers.net/", imageUrl: "talenthackers.png"}
-  # - {name: "Waima", description: "Waima- Plataforma de productos para sensorizar el mundo retail, tiendas o stands ", link: "http://www.waima.es/", imageUrl: "waima.png"}
+    - {name: "Ninja Talent", description: "Selecciona profesionales de la tecnología mediante el método que evalúa los mejores talentos teckys.", link: "https://ninjatalent.net/", imageUrl: "NinjaTalent.png"}
+    - {name: "CloudAPPi", description: "Transformación digital a través de las APIs", link: "https://cloudappi.net/", imageUrl: "cloudappi-h.png"}
+    - {name: "Axway", description: "Líder en el Magic Quadrant de Gartner 2020 para la gestión del ciclo de vida completo de API.", link: "https://www.axway.es/", imageUrl: "axway.png"}
+    - {name: "Waima", description: "Waima- Plataforma de productos para sensorizar el mundo retail, tiendas o stands.", link: "http://www.waima.es/", imageUrl: "waima-new.png"}
+    - {name: "RSI", description: "La primera empresa de TI que trabaja con modelo SaaS de pago por transacción en España.", link: "https://www.ruralserviciosinformaticos.com/", imageUrl: "RSI.png"}
+    - {name: "Arcopay", description: "Tecnología para conectar con todos los bancos en formato Widget, APP y API, mediante scrapping o APIs regulatorias PSD2.", link: "https://www.arcopay.io/es-es/", imageUrl: "arcopay.jpg"}
+    - {name: "Scorcce", description: "Procesos a través del uso de APIs, conectando de manera rápida, fácil y sencilla a empresas que operan en internet.", link: "https://www.scorce.io/", imageUrl: "scorce.png"}
+    - {name: "CorreosLabs", description: "Punto de encuentro entre empresas, profesionales, emprendedores y startups, que pueden crear sinergias y desarrollar modelos de negocio innovadores.", link: "https://correoslabs.com/", imageUrl: "correoslabs.png"}
+    - {name: "Santander Global Tech", description: "Trabajamos para que el Santander se convierta en la mejor plataforma abierta de servicios digitales financieros.", link: "https://santanderglobaltech.com/", imageUrl: "santander-global-tech.png"}
+    - {name: "DiversIT", description: "El objetivo es promover la diversidad y fomentar la inclusión en el sector IT", link: "https://www.linkedin.com/feed/hashtag/?keywords=diversit2021", imageUrl: "diversit.png"}
+    - {name: "Python", description: "Promovemos el uso del lenguaje de programación Python en España, servir como punto de encuentro en su uso y darles soporte.", link: "https://www.es.python.org/", imageUrl: "python.png"}
 
+  
+  
+  #- {name: "Ryanair", description: "Ryanair- La mayor aerolinea de bajo coste de Europa", link: "https://developer.ryanair.com/", imageUrl: "ryanair.png"}
+  # - {name: "Interaction Mobile", description: "Interaction Mobile- Líderes en soluciones de second screen", link: "http://new.interactionmobile.com/", imageUrl: "interactionmobile.png"}
+  # - {name: "Dexma", description: "Dexma- Líder en soluciones de monitorización en ", link: "https://www.dexma.com/es/", imageUrl: "dexma.png"}
+  # - {name: "BBVA API Market", description: "BBVA Api Market - plataforma global y abierta de APIs que te permite acceder a soluciones financieras de manera ágil e implementarlas fácilmente en tu empresa", link: "https://www.bbvaapimarket.com/", imageUrl: "bbvaapimarket.png"}
+  # - {name: "Minube", description: "Donde empiezan los viajes", link: "https://www.minube.com/", imageUrl: "minube.jpg"}
+  # - {name: "StackOverflow", description: "StackOverflow - mayor sitio de preguntas y respuestas de developers", link: "https://es.stackoverflow.com/", imageUrl: "stackoverflowes.png"} 
+  # - {name: "Talent Hackers", description: "Talent Hackers- Plataforma para ganar dinero referenciando a amigos ", link: "https://www.talenthackers.net/", imageUrl: "talenthackers.png"}
+  # - {name: "Apigee", description: "Apigee- Líder en soluciones de API Management ", link: "https://apigee.com", imageUrl: "apigee.png"}
+  # - {name: "Eurobits", description: "Eurobits- Mayor agregador financiero de Europa ", link: "https://eurobits.es/", imageUrl: "eurobits.png"}
+  # - {name: "Wannabot", description: "Wannabot- Plataforma de creación de ChatBots", link: "http://www.wannabot.io", imageUrl: "wannabot.png"}
+  # - {name: "Google Cloud", description: "La plataforma dónde puedes crear y alojar aplicaciones y sitios web, almacenar datos y analizarlos en la infraestructura escalable de Google.", link: "https://cloud.google.com/?hl=es", imageUrl: "googleCloud.png"}
 
-
-
-
-
-
-    #- {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
+#- {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
 #-
 #  group: "With support of"
 #  elements:

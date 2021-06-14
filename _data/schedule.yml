@@ -1,58 +1,92 @@
 - 
-  date: "2018-04-11"
-  dateReadable: "11 de Abril (Conferencias)"
+  date: "2021-07-12"
+  dateReadable: "12 de Julio - Curso Diseño de Productos para Startups"
   tracks: 
-    - {title: "Auditorio", color: "#90be4e"}
+    - {title: "Charla", color: "#90be4e"}
   timeslots:
     - {
-        startTime: "18:35",
-        endTime: "18:45",
+        startTime: "17:00",
+        endTime: "20:00",
         sessionIds: [000]
     }
+- 
+  date: "2021-07-13"
+  dateReadable: "13 de Julio - FinTECH"
+  tracks: 
+    - {title: "Charla", color: "#90be4e"}
+  timeslots:
     - {
-        startTime: "18:45",
-        endTime: "18:55",
+        startTime: "17:30",
+        endTime: "18:05",
         sessionIds: [001]
     }
     - {
-        startTime: "18:55",
-        endTime: "19:15",
+        startTime: "18:05",
+        endTime: "18:40",
         sessionIds: [002]
     }
     - {
-        startTime: "19:15",
-        endTime: "19:40",
+        startTime: "18:40",
+        endTime: "19:25",
         sessionIds: [003]
     }
     - {
-        startTime: "19:40",
-        endTime: "19:50",
+        startTime: "19:25",
+        endTime: "19:30",
         sessionIds: [004]
     }
+
+  date: "2021-07-14"
+  dateReadable: "14 de Julio - HumanTECH"
+  tracks: 
+    - {title: "Charla", color: "#90be4e"}
+  timeslots:
     - {
-        startTime: "19:50",
-        endTime: "20:15",
+        startTime: "17:30",
+        endTime: "18:05",
         sessionIds: [005]
     }
     - {
-        startTime: "20:15",
-        endTime: "20:40",
+        startTime: "18:05",
+        endTime: "18:40",
         sessionIds: [006]
     }
     - {
-      startTime: "20:40",
-      endTime: "21:05",
-      sessionIds: [007]
+        startTime: "18:40",
+        endTime: "19:25",
+        sessionIds: [007]
     }
     - {
-      startTime: "21:05",
-      endTime: "21:30",
-      sessionIds: [008]
+        startTime: "19:25",
+        endTime: "19:30",
+        sessionIds: [004]
+    }
+
+  date: "2021-07-15"
+  dateReadable: "15 de Julio - InsurTECH"
+  tracks: 
+    - {title: "Charla", color: "#90be4e"}
+  timeslots:
+    - {
+        startTime: "17:30",
+        endTime: "18:05",
+        sessionIds: [010]
     }
     - {
-      startTime: "21:30",
-      endTime: "21:30",
-      sessionIds: [009]
+        startTime: "18:05",
+        endTime: "18:40",
+        sessionIds: [011]
+    }
+    - {
+        startTime: "18:40",
+        endTime: "19:25",
+        sessionIds: [012]
+    }
+    - {
+        startTime: "19:25",
+        endTime: "19:30",
+        sessionIds: [013]
+        # - Añadir resolución del concurso
     }
 
 #-
