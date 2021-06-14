@@ -37,8 +37,8 @@
   surname: "Ferrandis"
   company: "Wenalyze"
   title: "COO at Wenalyze"
-  bio: 'COO y Cofundador en Wenalyze. Más de 8 años de experiencia como analista así como amplia experiencia como director de proyectos.'
-  thumbnailUrl: RogerFerrandis.jpeg.jpg
+  bio: "COO y Cofundador en Wenalyze. Más de 8 años de experiencia como analista así como amplia experiencia como director de proyectos."
+  thumbnailUrl: RogerFerrandis.jpg
   rockstar: true
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/rogerferrandis/"}
@@ -48,7 +48,7 @@
   surname: "Sánchez"
   company: "Pepper Money"
   title: "Chief Technology Officer"
-  bio: 'Más de 20 años de experiencia en el sector de la tecnología. Emprendedor y arquitecto desde 2009. Apasionado de la tecnología, las API's y los microservicios.'
+  bio: "Más de 20 años de experiencia en el sector de la tecnología. Emprendedor y arquitecto desde 2009. Apasionado de la tecnología, las API's y los microservicios."
   thumbnailUrl: RaulSanchez.jpg
   rockstar: true
   social: 
@@ -71,7 +71,7 @@
   surname: "de Toro"
   company: "Talent Hackers"
   title: "Product Manager | Ing. Telecomunicaciones"
-  bio: 'Siempre pegado a producto, en mis inicios como desarrollador y ahora como PM, he estado en industrias y sectores diferentes, sin embargo desde hace 6 años estoy centrado en crear soluciones para RRHH y las personas.'
+  bio: "Siempre pegado a producto, en mis inicios como desarrollador y ahora como PM, he estado en industrias y sectores diferentes, sin embargo desde hace 6 años estoy centrado en crear soluciones para RRHH y las personas."
   thumbnailUrl: JuanDeToro.jpeg
   rockstar: true
   social: 
@@ -82,10 +82,10 @@
   surname: "Gonzalez"
   company: "BBVA"
   title: "Product Owner www.bbvaapimarket.com - BBVA PayStats"
-  bio: 'Alberto González es el product owner de www.bbvaapimarket.com y responsable de negocio de la API PayStats en BBVA API_Market, la iniciativa de Open APIs de BBVA para potenciar la colaboración y partnerships con start-ups, grandes empresas y administraciones públicas a través del modelo de Open Banking. 
+  bio: "Alberto González es el product owner de www.bbvaapimarket.com y responsable de negocio de la API PayStats en BBVA API_Market, la iniciativa de Open APIs de BBVA para potenciar la colaboración y partnerships con start-ups, grandes empresas y administraciones públicas a través del modelo de Open Banking. 
 Su trayectoria profesional incluye el desarrollo de la web www.bbva.es (seleccionada por Forrester como la mejor web europea de banca en 2017), así como la gestión técnica de distintos proyectos estratégicos en el ámbito de los nuevos negocios digitales, tanto en BBVA como en Beeva. 
 Scrum Master certificado, es además experto en el desarrollo de APIs abiertas, lenguajes de programación y bases de datos tales como Java, Spring, Node,SQL y NoSQL…
-Apasionado por la tecnología y la metodología agile, tiene también el grado de profesor de educación infantil y pasa la mayor parte de su tiempo libre  practicando deporte.'
+Apasionado por la tecnología y la metodología agile, tiene también el grado de profesor de educación infantil y pasa la mayor parte de su tiempo libre  practicando deporte."
   thumbnailUrl: AlbertoGonzalezNew.png
   rockstar: true
   social: 
