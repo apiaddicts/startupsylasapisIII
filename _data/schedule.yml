@@ -35,7 +35,7 @@
         endTime: "19:30",
         sessionIds: [009]
     }
-
+-
   date: "2021-07-14"
   dateReadable: "14 de Julio - HumanTECH"
   tracks: 
@@ -61,7 +61,7 @@
         endTime: "19:30",
         sessionIds: [009]
     }
-
+-
   date: "2021-07-15"
   dateReadable: "15 de Julio - InsurTECH"
   tracks: 
