@@ -2,40 +2,39 @@
   id: 1
   name: "Omar"
   surname: "del Valle"
-  title: "API Evangelist- Cloudappi"
-  thumbnailUrl: OmarDelValle.jpeg
+  title: "CTO en Finect && API Evangelist"
+  thumbnailUrl: OmarDelValle.jpg
   team: true
   social:
     - {name: "twitter", link: "https://twitter.com/omarvr72"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/omardelvalle/"}
 -
   id: 2
   name: "Marco Antonio"
   surname: "Sanz"
-  title: "CEO - Cloudappi - Waima"
+  title: "CEO - CloudAPPi - Waima"
   thumbnailUrl: MarcoAntonio.png
   team: true
   social:
+    - {name: "site", link: "https://cloudappi.net"}
     - {name: "twitter", link: "https://twitter.com/marantonio82"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/marco-antonio-sanz-molina-prados-09733518/"}
 -
   id: 3
-  name: "Asier"
-  surname: "Fernández"
-  title: "Product Owner - Waima"
-  thumbnailUrl: AsierFernandez.jpeg
+  name: "Isabelle"
+  surname: "Mauny"
+  title: "Field CTO and co-founder at 42Crunch"
+  thumbnailUrl: IsabelleMauny.jpg
   team: true
   social:
     - {name: "twitter", link: "https://twitter.com/marantonio82"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/isamauny/"}
 -
   id: 4
-  name: "Esther"
-  surname: "Ramos"
-  title: "DevOps - CloudAppi"
-  thumbnailUrl: EstherRamos.png
+  name: "Rafael"
+  surname: "Granados"
+  title: "API Product Owner en CaixaBank Tech"
+  thumbnailUrl: RafaelGranados.jpeg
   team: true
--
-  id: 5
-  name: "Guillermo"
-  surname: "Medina"
-  title: "Front end Developer - CloudAppi"
-  thumbnailUrl: GuillermoMedina.jpeg
-  team: true
+  social:
+   - {name: "linkedin", link: "https://www.linkedin.com/in/rafagranados/"}
