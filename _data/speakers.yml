@@ -76,3 +76,47 @@
   rockstar: true
   social: 
     - {name: "linkedin", link: "https://es.linkedin.com/in/jdetoro-product-manager"}
+- 
+  id: 7
+  name: "Ponente"
+  surname: "Humatech"
+  company: "Por confirmar"
+  title: ""
+  bio: ""
+  thumbnailUrl: user.png
+  rockstar: true
+  social: 
+  #  - {name: "linkedin", link: ""}
+- 
+  id: 8
+  name: "Ponente"
+  surname: "Insurtech"
+  company: "Por confirmar"
+  title: ""
+  bio: ""
+  thumbnailUrl: user.png
+  rockstar: true
+  social: 
+  #  - {name: "linkedin", link: ""}
+- 
+  id: 9
+  name: "Ponente"
+  surname: "Insurtech"
+  company: "Por confirmar"
+  title: ""
+  bio: ""
+  thumbnailUrl: user.png
+  rockstar: true
+  social: 
+  #  - {name: "linkedin", link: ""}
+- 
+  id: 10
+  name: "Ponente"
+  surname: "Insurtech"
+  company: "Por confirmar"
+  title: ""
+  bio: ""
+  thumbnailUrl: user.png
+  rockstar: true
+  social: 
+  #  - {name: "linkedin", link: ""}

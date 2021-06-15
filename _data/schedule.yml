@@ -11,7 +11,7 @@
     }
 - 
   date: "2021-07-13"
-  dateReadable: "13 de Julio - FinTECH"
+  dateReadable: "13 de Julio - FINTECH"
   tracks: 
     - {title: "Charla", color: "#90be4e"}
   timeslots:
@@ -37,7 +37,7 @@
     }
 -
   date: "2021-07-14"
-  dateReadable: "14 de Julio - HumanTECH"
+  dateReadable: "14 de Julio - HUMANTECH"
   tracks: 
     - {title: "Charla", color: "#90be4e"}
   timeslots:
@@ -62,7 +62,7 @@
     }
 -
   date: "2021-07-15"
-  dateReadable: "15 de Julio - InsurTECH"
+  dateReadable: "15 de Julio - INSURTECH"
   tracks: 
     - {title: "Charla", color: "#90be4e"}
   timeslots:

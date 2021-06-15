@@ -5,9 +5,12 @@
 
 -
   id: 000
-  title: "Comienzo del evento"
-  description: "¡TE ESPERAMOS!"
-  service: true
+  title: "Curso de diseño de productos para startups"
+  subtype: presentation
+  description: "Acceso exclusivo para quién esté interesado en recibir una masterclass por un APIExpert sobre cómo implementar un producto digital exitoso en su proyecto. No te lo pienses, las PLAZAS son LIMITADAS!"
+  speakers: [1]
+  complexity: "Expert"
+
 -
 #  id: 001
 #  title: "Reinventando negocios tradicionales"
@@ -34,7 +37,7 @@
   complexity: "Expert"
 -
   id: 004
-  title: "Concurso"
+  title: "Concurso y preguntas/dudas de los asistentes"
   description: ""
   subtype: keynote
 -
@@ -61,8 +64,32 @@
   speakers: [6]
   complexity: "Expert"
 -
+  id: 008
+  title: "Por confirmar"
+  description: "Startup Humantech"
+  subtype: presentation
+  speakers: [7]
+  complexity: "None"
+-
   id: 009
-  title: "Fin del evento"
+  title: "Preguntas/dudas de los asistentes"
   description: ""
   subtype: presentation
-  complexity: "Intermediate"
+-
+  id: 010
+  title: "Por confirmar"
+  description: "Startup Insurtech"
+  subtype: presentation
+  speakers: [8]
+-
+  id: 011
+  title: "Por confirmar"
+  description: "Startup Insurtech"
+  subtype: presentation
+  speakers: [9]
+-
+  id: 012
+  title: "Por confirmar"
+  description: "Startup Insurtech"
+  subtype: presentation
+  speakers: [10]
