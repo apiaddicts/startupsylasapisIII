@@ -9,9 +9,9 @@
     - {name: "Arcopay", description: "Tecnología para conectar con todos los bancos en formato Widget, APP y API, mediante scrapping o APIs regulatorias PSD2.", link: "https://www.arcopay.io/es-es/", imageUrl: "arcopay.jpg"}
     - {name: "Scorce", description: "Procesos a través del uso de APIs, conectando de manera rápida, fácil y sencilla a empresas que operan en internet.", link: "https://www.scorce.io/", imageUrl: "scorce.png"}
     - {name: "CorreosLabs", description: "Punto de encuentro entre empresas, profesionales, emprendedores y startups, que pueden crear sinergias y desarrollar modelos de negocio innovadores.", link: "https://correoslabs.com/", imageUrl: "correoslabs.png"}
-    - {name: "Santander Global Tech", description: "Trabajamos para que el Santander se convierta en la mejor plataforma abierta de servicios digitales financieros.", link: "https://santanderglobaltech.com/", imageUrl: "santander-global-tech.png"}
     - {name: "DiversIT", description: "El objetivo es promover la diversidad y fomentar la inclusión en el sector IT", link: "https://www.linkedin.com/feed/hashtag/?keywords=diversit2021", imageUrl: "diversit.png"}
     - {name: "Python", description: "Promovemos el uso del lenguaje de programación Python en España, servir como punto de encuentro en su uso y darles soporte.", link: "https://www.es.python.org/", imageUrl: "python.png"}
+    - {name: "Santander Global Tech", description: "Trabajamos para que el Santander se convierta en la mejor plataforma abierta de servicios digitales financieros.", link: "https://santanderglobaltech.com/", imageUrl: "santander-global-tech.png"}
 
   
   # - {name: "Amadeus", description: "Amadeus- Mayor proveedor de soluciones tecnológicas para el mundo de los viajes y el turismo", link: "http://www.amadeus.com/", imageUrl: "amadeus.png"}

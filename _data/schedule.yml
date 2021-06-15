@@ -53,7 +53,9 @@
     }
     - {
         startTime: "18:40",
-        endTime: "19:25"
+        endTime: "19:25",
+        sessionIds: [008]
+
     }
     - {
         startTime: "19:25",
@@ -68,15 +70,19 @@
   timeslots:
     - {
         startTime: "17:30",
-        endTime: "18:05"
+        endTime: "18:05",
+        sessionIds: [010]
+
     }
     - {
         startTime: "18:05",
-        endTime: "18:40"
+        endTime: "18:40",
+        sessionIds: [011]
     }
     - {
         startTime: "18:40",
-        endTime: "19:25"
+        endTime: "19:25",
+        sessionIds: [012]
     }
     - {
         startTime: "19:25",
