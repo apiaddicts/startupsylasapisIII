@@ -130,10 +130,9 @@ tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "Sigue el evento"
 twitterHashTag: "StartupsylasAPIs21"
 twitterFeed: "https://www.linkedin.com/feed/hashtag/?keywords=startupsylasapis21"
-twitterText: "¡Bienvenid@ al evento #StartupsylasAPIs21!<br>
-  Llega la 6ª edición de uno de los eventos más disruptivos que existen en el panorama actual de las Startups con presencia en España y América Latina. ¡Ahora además con premio para la mejor Startup 2021!
-  Un punto de encuentro internacional entre nuevos proyectos, casos de éxito y grandes empresas, quienes inspiran a la transformación digital a través de su experiencia con las APIs.
-  El evento tendrá lugar los días 13, 14 y 15 de Julio 2021 y el acceso es totalmente gratuito y online. La temática se dividirá en  Fintech, Insurtech y HR Tech.<br> ¡Te esperamos APIAddict! <br>"
+twitterText: "Llega la 6ª edición de uno de los eventos más disruptivos de las Startups. ¡Ahora además con premio para la mejor Startup 2021!
+  Un punto de encuentro internacional entre nuevos proyectos, casos de éxito y grandes empresas, quienes inspiran a la transformación digital a través de las APIs.
+  El acceso es totalmente gratuito y online.<br> ¡Te esperamos APIAddict! <br>"
 twitterButtonLink: "https://www.eventbrite.es/e/entradas-startups-y-las-apis-2021-157469817463"
 twitterButtonText: "Reservar mi plaza"
 
