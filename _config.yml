@@ -223,16 +223,19 @@ aboutUs: "En los últimos años, las APIs se han convertido en una forma revoluc
   formatos. Somos amantes y expertos de las APIs. Así fue como creamos el grupo, por el interés de crear una comunidad abierta
   en la cual todos puedan participar y aprender acerca de las APIs. <br>
   Actualmente somos el mayor grupo hispano hablante a nivel nacional, y pronto lo seremos a nivel mundial.
-  Si no nos conoces, puedes saber más sobre nosotros en nuestro y ver lo que hacemos en nuestro canal de youtube. <br> <br>
+  Si no nos conoces, puedes saber más sobre nosotros en nuestro y ver lo que hacemos en nuestro canal de youtube.<br> <br>
   Las startups han demostrado ser un elemento clave en el impulso de las nuevas tecnologías y podría decirse que son el motor 
   de la transformación digital de todos los sectores. Es por ello que un año más queremos reunir a los casos de éxito más disruptivos del panoráma en un encuentro anual internacional. 
-  ¡Bienvenidos al evento #StartupsylasAPIs21! <br>
+  <br>¡Bienvenidos al evento #StartupsylasAPIs21!<br>
   Organizado por la Fundación sin ánimo de lucro APIAddicts, este evento es un punto de encuentro internacional entre nuevos proyectos, casos de éxito y grandes empresas, quienes inspiran a la transformación digital a través de su experiencia con las APIs.
   Cada año este evento busca se convierte en un punto de encuentro internacional entre nuevos proyectos, casos de éxito y grandes empresas, quienes inspiran a la transformación digital a través de su experiencia con las APIs.
   Aunque las APIs son un factor clave en el éxito de las empresas actuales, es un término desconocido todavía para mucha gente. Por ello, con este evento y los meetups que realiza la Fundación y pueden verse en su canal de Youtube se pretende seguir evangelizando. 
   Como dice Marco Antonio Sanz: - Cualquier persona, aunque no sea técnica, tiene que ver que las APIs son importantes y son un nuevo modelo de negocio. 
-  El evento tendrá lugar los días 13, 14 y 15 de Julio 2021 y el acceso es totalmente gratuito y online. Aunque aún quedan muchos ponentes internacionales por confirmar, los cuales se irán avisando por las Redes Sociales (link linkedin), ya se han podido descubrir algunos expertos y proyectos innovadores que tendrán cita en el encuentro de este año. Puedes verlos todos aquí (link ponentes)
-  Como siempre, la temática se dividirá en 3 perspectivas. Esta vez se ha apostado por centrarse en sectores claves como son Fintech, Insurtech y HR Tech. De este modo, se pretende mostrar cómo a través de las APIs se puede impulsar la transformación digital de cualquier negocio, incluidos sectores tan tradicionales como la Banca y los Seguros. ¡Te esperamos APIAddict!"
+  El evento tendrá lugar los días 13, 14 y 15 de Julio 2021 y el acceso es totalmente gratuito y online. Aunque aún quedan muchos ponentes internacionales por confirmar, los cuales se irán avisando por las Redes Sociales, ya se han podido descubrir algunos expertos y proyectos innovadores que tendrán cita en el encuentro de este año.
+  Como siempre, la temática se dividirá en 3 perspectivas. Esta vez se ha apostado por centrarse en sectores claves como son Fintech, Insurtech y HR Tech. De este modo, se pretende mostrar cómo a través de las APIs se puede impulsar la transformación digital de cualquier negocio, incluidos sectores tan tradicionales como la Banca y los Seguros.
+  ¡Te esperamos APIAddict!"<br>
+heroButtons:
+ - {link: "https://www.eventbrite.es/e/entradas-startups-y-las-apis-2021-157469817463", text: "Obtener entradas"}
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
