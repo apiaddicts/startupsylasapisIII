@@ -128,7 +128,7 @@ venueFeatures: ["Sala de conferencias", "Espacio para emprendedores", "En el cen
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "Sigue el evento"
-twitterHashTag: "#StartupsylasAPIs21"
+twitterHashTag: "StartupsylasAPIs21"
 twitterFeed: "https://www.linkedin.com/feed/hashtag/?keywords=startupsylasapis21"
 twitterText: "¡Bienvenid@ al evento #StartupsylasAPIs21!<br>
   Llega la 6ª edición de uno de los eventos más disruptivos que existen en el panorama actual de las Startups con presencia en España y América Latina. ¡Ahora además con premio para la mejor Startup 2021!
