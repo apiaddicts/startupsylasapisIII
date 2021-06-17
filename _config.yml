@@ -129,7 +129,12 @@ venueFeatures: ["Sala de conferencias", "Espacio para emprendedores", "En el cen
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "Sigue el evento"
 twitterHashTag: "startupsylasapis"
-twitterFeed: "http://tweetledee.cloudappi.net/searchjson_nocache.php?q=apidaysmad17"  
+twitterFeed: "http://tweetledee.cloudappi.net/searchjson_nocache.php?q=apidaysmad17"
+twitterText: "¡Bienvenid@ al evento #StartupsylasAPIs21!<br>
+  Llega la 6ª edición de uno de los eventos más disruptivos que existen en el panorama actual de las Startups con presencia en España y América Latina. ¡Ahora además con premio para la mejor Startup 2021!
+  Un punto de encuentro internacional entre nuevos proyectos, casos de éxito y grandes empresas, quienes inspiran a la transformación digital a través de su experiencia con las APIs.
+  Aunque las APIs son un factor clave en el éxito de las empresas actuales, es un término desconocido todavía para mucha gente. 
+  El evento tendrá lugar los días 13, 14 y 15 de Julio 2021 y el acceso es totalmente gratuito y online. La temática se dividirá en 3 perspectivas. Esta vez se ha apostado por centrarnos en sectores claves como son Fintech, Insurtech y HR Tech. De este modo, se pretende mostrar cómo a través de las APIs se puede impulsar la transformación digital de cualquier negocio, incluidos sectores tan tradicionales como la Banca y los Seguros. <br> ¡Te esperamos APIAddict! <br>"
 
 # Partners Block
 organizersTitle: "Organizadores"
@@ -186,7 +191,7 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- #- {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
+ - {link: "https://www.linkedin.com/company/apiaddicts/", icon: "Linkedin"}
  - {link: "https://twitter.com/intent/user?screen_name=apiaddicts", icon: "twitter"}
  - {link: "https://www.youtube.com/channel/UCepaRmZBCmbdU4QqNhSV5jQ/videos", icon: "youtube"}
  - {link: "https://facebook.com/apiaddicts", icon: "facebook"}
@@ -222,17 +227,12 @@ aboutUs: "En los últimos años, las APIs se han convertido en una forma revoluc
   Por eso en API Addicts nos gusta compartir con la comunidad nuestra experiencia. Nos gustan las APIs en todos sus
   formatos. Somos amantes y expertos de las APIs. Así fue como creamos el grupo, por el interés de crear una comunidad abierta
   en la cual todos puedan participar y aprender acerca de las APIs. <br>
-  Actualmente somos el mayor grupo hispano hablante a nivel nacional, y pronto lo seremos a nivel mundial.
-  Si no nos conoces, puedes saber más sobre nosotros en nuestro y ver lo que hacemos en nuestro canal de youtube.<br> <br>
-  Las startups han demostrado ser un elemento clave en el impulso de las nuevas tecnologías y podría decirse que son el motor 
-  de la transformación digital de todos los sectores. Es por ello que un año más queremos reunir a los casos de éxito más disruptivos del panoráma en un encuentro anual internacional. 
-  <br>¡Bienvenidos al evento #StartupsylasAPIs21!<br>
-  Organizado por la Fundación sin ánimo de lucro APIAddicts, este evento es un punto de encuentro internacional entre nuevos proyectos, casos de éxito y grandes empresas, quienes inspiran a la transformación digital a través de su experiencia con las APIs.
-  Cada año este evento busca se convierte en un punto de encuentro internacional entre nuevos proyectos, casos de éxito y grandes empresas, quienes inspiran a la transformación digital a través de su experiencia con las APIs.
-  Aunque las APIs son un factor clave en el éxito de las empresas actuales, es un término desconocido todavía para mucha gente. Por ello, con este evento y los meetups que realiza la Fundación y pueden verse en su canal de Youtube se pretende seguir evangelizando. 
-  Como dice Marco Antonio Sanz: - Cualquier persona, aunque no sea técnica, tiene que ver que las APIs son importantes y son un nuevo modelo de negocio. 
-  El evento tendrá lugar los días 13, 14 y 15 de Julio 2021 y el acceso es totalmente gratuito y online. Aunque aún quedan muchos ponentes internacionales por confirmar, los cuales se irán avisando por las Redes Sociales, ya se han podido descubrir algunos expertos y proyectos innovadores que tendrán cita en el encuentro de este año.
-  Como siempre, la temática se dividirá en 3 perspectivas. Esta vez se ha apostado por centrarse en sectores claves como son Fintech, Insurtech y HR Tech. De este modo, se pretende mostrar cómo a través de las APIs se puede impulsar la transformación digital de cualquier negocio, incluidos sectores tan tradicionales como la Banca y los Seguros. ¡Te esperamos APIAddict! <br>"
+  Las startups han demostrado ser un elemento clave en el impulso de las nuevas tecnologías y podría decirse que son el motor de la transformación digital de todos los sectores. Es por ello que, un año más, queremos reunir a los casos de éxito más disruptivos del panorama en un encuentro anual internacional.
+  Este evento es un punto de encuentro internacional entre nuevos proyectos, casos de éxito y grandes empresas, quienes inspiran a la transformación digital a través de su experiencia con las APIs.
+  Aunque las APIs son un factor clave en el éxito de las empresas actuales, es un término desconocido todavía para mucha gente.
+  El evento tendrá lugar los días 13, 14 y 15 de Julio 2021 y el acceso es totalmente gratuito y online. Como siempre, la temática se dividirá en 3 perspectivas. Esta vez se ha apostado por los sectores claves como son Fintech, Insurtech y HR Tech. 
+  De este modo, se pretende mostrar cómo a través de las APIs se puede impulsar la transformación digital de cualquier negocio, incluidos sectores tan tradicionales como la Banca y los Seguros. 
+  Si no nos conoces, puedes saber más sobre nosotros y ver lo que hacemos en nuestro canal de youtube o en nuestras redes sociales. ¡Te esperamos APIAddict!<br> <br>"
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
