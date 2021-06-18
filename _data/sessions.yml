@@ -12,13 +12,12 @@
   complexity: "Expert"
 
 -
-#  id: 001
-#  title: "Reinventando negocios tradicionales"
-#  subtype: presentation
-#  description: "A veces, ofrecer soluciones como un gestor de turnos, parece algo muy tradicional. Gracias
-#  a tecnología IoT y las Apis, podemos reinventar productos dónde todo ya parecía inventados ."
-#  speakers: [1]
-# complexity: "Intermediate"
+  id: 001
+  title: "Bienvenida y presentación"
+  subtype: presentation
+  description: ""
+  speakers: [1]
+  complexity: "Expert"
 
 -
   id: 002

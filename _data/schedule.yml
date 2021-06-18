@@ -9,7 +9,7 @@
         endTime: "20:00",
         sessionIds: [000]
     }
-- 
+-  
   date: "2021-07-13"
   dateReadable: "13 de Julio - FINTECH"
   tracks: 
@@ -17,22 +17,27 @@
   timeslots:
     - {
         startTime: "17:30",
-        endTime: "18:05",
+        endTime: "17:45",
+        sessionIds: [001]
+    }
+    - {
+        startTime: "17:45",
+        endTime: "18:20",
         sessionIds: [002]
     }
     - {
-        startTime: "18:05",
-        endTime: "18:40",
+        startTime: "18:20",
+        endTime: "18:55",
         sessionIds: [003]
     }
     - {
-        startTime: "18:40",
-        endTime: "19:25",
+        startTime: "18:55",
+        endTime: "19:30",
         sessionIds: [005]
     }
     - {
-        startTime: "19:25",
-        endTime: "19:30",
+        startTime: "19:30",
+        endTime: "19:35",
         sessionIds: [009]
     }
 -
@@ -43,23 +48,27 @@
   timeslots:
     - {
         startTime: "17:30",
-        endTime: "18:05",
+        endTime: "17:45",
+        sessionIds: [001]
+    }
+    - {
+        startTime: "17:45",
+        endTime: "18:20",
         sessionIds: [006]
     }
     - {
-        startTime: "18:05",
-        endTime: "18:40",
+        startTime: "18:20",
+        endTime: "18:55",
         sessionIds: [007]
     }
     - {
-        startTime: "18:40",
-        endTime: "19:25",
+        startTime: "18:55",
+        endTime: "19:30",
         sessionIds: [008]
-
     }
     - {
-        startTime: "19:25",
-        endTime: "19:30",
+        startTime: "19:30",
+        endTime: "19:35",
         sessionIds: [009]
     }
 -
@@ -70,23 +79,26 @@
   timeslots:
     - {
         startTime: "17:30",
-        endTime: "18:05",
+        endTime: "17:45",
+        sessionIds: [001]
+    }- {
+        startTime: "17:45",
+        endTime: "18:20",
         sessionIds: [010]
-
     }
     - {
-        startTime: "18:05",
-        endTime: "18:40",
+        startTime: "18:20",
+        endTime: "18:55",
         sessionIds: [011]
     }
     - {
-        startTime: "18:40",
-        endTime: "19:25",
+        startTime: "18:55",
+        endTime: "19:30",
         sessionIds: [012]
     }
     - {
-        startTime: "19:25",
-        endTime: "19:30",
+        startTime: "19:30",
+        endTime: "19:35",
         sessionIds: [004]
     }
 
