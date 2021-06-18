@@ -1,7 +1,7 @@
 - 
   date: "2021-07-12"
   dateReadable: "12 de Julio - Curso Diseño de Productos para Startups"
-  tracks: 
+  tracks:
     - {title: "Charla", color: "#90be4e"}
   timeslots:
     - {
@@ -12,7 +12,7 @@
 -  
   date: "2021-07-13"
   dateReadable: "13 de Julio - FINTECH"
-  tracks: 
+  tracks:
     - {title: "Charla", color: "#90be4e"}
   timeslots:
     - {
@@ -81,7 +81,8 @@
         startTime: "17:30",
         endTime: "17:45",
         sessionIds: [001]
-    }- {
+    }
+    - {
         startTime: "17:45",
         endTime: "18:20",
         sessionIds: [010]
