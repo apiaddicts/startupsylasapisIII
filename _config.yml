@@ -80,9 +80,9 @@ participaButtonText: "Enviar mi propuesta"
 # Concurso Block
 concursoTitle: "Concurso para startups"
 concursoText: "Llega la 6ª edición de uno de los eventos más disruptivos de las Startups.<br>"
-concursoText2: "¡Ahora además con premio para la mejor Startup 2021!<br>
-El objetivo es impulsar el proyecto, multiplicar los resultados y aumentar la visibilidad entre los más de 5.000 miembros de la comunidad.<br>
-La Startup ganadora tendrá una Auditoria Digital que ayudará a potenciar la tecnología que utilice. <br>"
+concursoText2: "¡Ahora además con premio para la mejor Startup 2021!<br>"
+concursoText3: "El objetivo es impulsar el proyecto, multiplicar los resultados y aumentar la visibilidad entre los +5.000 miembros de la comunidad.<br>
+La Startup ganadora tendrá una Auditoria Digital que ayudará a potenciar la tecnología que utilice.<br>"
 concursoButtonLink: "https://forms.gle/QnBTDutJunK1Zc7T9"
 concursoButtonText: "¡Quiero participar!"
 
