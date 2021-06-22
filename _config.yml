@@ -79,9 +79,12 @@ participaButtonText: "Enviar mi propuesta"
 
 # Concurso Block
 concursoTitle: "Concurso para startups"
-concursoText: "Si utilizas APIs en tus modelos de negocio, ¡participa!"
+concursoText: "Es la 6ª edición de uno de nuestros eventos más importantes y con mayor acogida.<br>"
+concursoText2: "Pueden presentarse Startups de cualquier sector y se tendrán en cuenta criterios de evaluación como la innovación técnica, el impacto en la sociedad y medio ambiente o la escalabilidad.
+El objetivo es impulsar el proyecto, multiplicar los resultados y aumentar la visibilidad entre los más de 5.000 miembros de la comunidad.
+El premio será una Auditoria Digital que ayudará a potenciar la tecnología que utilice la startup ganadora."
 concursoButtonLink: "https://forms.gle/QnBTDutJunK1Zc7T9"
-concursoButtonText: "¡Me interesa!"
+concursoButtonText: "¡Quiero participar!"
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
