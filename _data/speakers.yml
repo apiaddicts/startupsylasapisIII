@@ -59,7 +59,7 @@
   surname: "Sánchez"
   company: "Ninja Talent"
   title: "CEO en Ninja Talent | Profesora en Universidad Francisco de Vitoria"
-  bio: ''
+  bio: ""
   thumbnailUrl: LuciSanchez.jpeg
   rockstar: true
   social: 
@@ -78,18 +78,18 @@
     - {name: "linkedin", link: "https://es.linkedin.com/in/jdetoro-product-manager"}
 - 
   id: 7
-  name: "Ponente"
-  surname: "Humatech"
-  company: "Por confirmar"
-  title: ""
-  bio: ""
-  thumbnailUrl: user.png
+  name: "Javier"
+  surname: "Puebla"
+  company: "Talentoo"
+  title: "CEO&Founder en TALENTOO"
+  bio: "La digitalización del sector de los RRHH es inminente, y desde Talentoo la fomentamos con una plataforma de selección B2B en la que conectamos empresas que buscan personal con una red global de recruiters formada por empresas de selección y headhunters. El #SmartRecruitment es digital."
+  thumbnailUrl: JavierPuebla-Talentoo.jpg
   rockstar: true
   social: 
-  #  - {name: "linkedin", link: ""}
+   - {name: "linkedin", link: "https://www.linkedin.com/company/talentoob2b"}
 - 
   id: 8
-  name: "Ponente"
+  name: "Speaker"
   surname: "Insurtech"
   company: "Por confirmar"
   title: ""
@@ -100,7 +100,7 @@
   #  - {name: "linkedin", link: ""}
 - 
   id: 9
-  name: "Ponente"
+  name: "Speaker"
   surname: "Insurtech"
   company: "Por confirmar"
   title: ""
@@ -111,7 +111,7 @@
   #  - {name: "linkedin", link: ""}
 - 
   id: 10
-  name: "Ponente"
+  name: "Speaker"
   surname: "Insurtech"
   company: "Por confirmar"
   title: ""
@@ -120,3 +120,14 @@
   rockstar: true
   social: 
   #  - {name: "linkedin", link: ""}
+- 
+  id: 11
+  name: "Magno"
+  surname: "Alarcon"
+  company: "Ninja Talent"
+  title: "Project Manager"
+  bio: ""
+  thumbnailUrl: magno.jpeg
+  rockstar: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/magno-alarcon-48585723/"}

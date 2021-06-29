@@ -53,7 +53,7 @@
   title: "Solo un tecky puede evaluar a otro tecky"
   description: "El método que evalúa los mejores talentos teckys. Ayudamos a las empresas a incorporar en sus equipos los mejores teckys con un gran valor técnico y profesional."
   subtype: presentation
-  speakers: [5]
+  speakers: [5,11]
   complexity: "Expert"
 -
   id: 007
