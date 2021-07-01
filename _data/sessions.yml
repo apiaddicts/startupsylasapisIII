@@ -76,14 +76,14 @@
   subtype: presentation
 -
   id: 010
-  title: "Por confirmar"
-  description: "Startup Insurtech"
+  title: "Luis Torres"
+  description: "Rimac"
   subtype: presentation
   speakers: [8]
 -
   id: 011
-  title: "Por confirmar"
-  description: "Startup Insurtech"
+  title: "Mesa Redonda"
+  description: "Insurtech"
   subtype: presentation
   speakers: [9]
 -

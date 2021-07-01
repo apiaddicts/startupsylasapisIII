@@ -23,12 +23,12 @@
     - {
         startTime: "17:45",
         endTime: "18:20",
-        sessionIds: [002]
+        sessionIds: [003]
     }
     - {
         startTime: "18:20",
         endTime: "18:55",
-        sessionIds: [003]
+        sessionIds: [002]
     }
     - {
         startTime: "18:55",
@@ -54,17 +54,17 @@
     - {
         startTime: "17:45",
         endTime: "18:20",
-        sessionIds: [006]
+        sessionIds: [008]
     }
     - {
         startTime: "18:20",
         endTime: "18:55",
-        sessionIds: [007]
+        sessionIds: [006]
     }
     - {
         startTime: "18:55",
         endTime: "19:30",
-        sessionIds: [008]
+        sessionIds: [007]
     }
     - {
         startTime: "19:30",
@@ -89,20 +89,19 @@
     }
     - {
         startTime: "18:20",
-        endTime: "18:55",
+        endTime: "19:05",
         sessionIds: [011]
     }
     - {
-        startTime: "18:55",
+        startTime: "19:05",
         endTime: "19:30",
-        sessionIds: [012]
-    }
-    - {
-        startTime: "19:30",
-        endTime: "19:35",
         sessionIds: [004]
     }
-
+#    - {
+#        startTime: "19:30",
+#        endTime: "19:35",
+#        sessionIds: [004]
+#    }
 #-
 #  date: "2017-10-12"
 #  dateReadable: "11 de Octubre (Sala Talleres)"
