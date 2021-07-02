@@ -6,7 +6,7 @@
   name: "Marco Antonio"
   surname: "Sanz"
   company: "CloudAPPi"
-  title: "CEO at CloudAppi && Waima"
+  title: "CEO"
   bio: "Más de 15 años de experiencia en el sector. He liderado proyectos tan importantes como el registro central de medidas cautelares y violencia doméstica del Ministerio de Justicia,
   el departamento de explotación, receta XXI y incapacidad temporal de Indra dentro del Servicio Andaluz de Salud y el departamento de Apis internas del BBVA, entre las que se encontraba entre otros proyecto, el ticket digital. <br>
         Fundador de API Addicts, uno de los grupos de charlas más importante sobre APIs. <br>
@@ -36,7 +36,7 @@
   name: "Roger"
   surname: "Ferrandis"
   company: "Wenalyze"
-  title: "COO at Wenalyze"
+  title: "COO"
   bio: "COO y Cofundador en Wenalyze. Más de 8 años de experiencia como analista así como amplia experiencia como director de proyectos."
   thumbnailUrl: RogerFerrandis.jpeg
   rockstar: true
@@ -58,7 +58,7 @@
   name: "Luci"
   surname: "Sánchez"
   company: "Ninja Talent"
-  title: "CEO en Ninja Talent | Profesora en Universidad Francisco de Vitoria"
+  title: "Profesora en Universidad Francisco de Vitoria | CEO"
   bio: "Profesional de RRHH con experiencia en los distintos campos y amplios conocimientos sobre la selección de perfiles IT. Actualmente en el Departamento de Desarrollo de Personas haciendo selección y desarrollo en la Universidad Francisco de Vitoria. Co-fundadora y Project Manager de Ninja Talent."
   thumbnailUrl: LuciSanchez.jpeg
   rockstar: true
@@ -81,7 +81,7 @@
   name: "Javier"
   surname: "Puebla"
   company: "Talentoo"
-  title: "CEO&Founder en TALENTOO"
+  title: "CEO&Founder"
   bio: "Licenciado en Psicología del trabajo con un Master en Dirección de RRHH y más de 20 años de experiencia en el sector, habiendo trabajado como Responsable de Selección en empresas como CISCO y Warner Bross Park. Co fundador de la consultora de selección DHR Global y Fundador de la startup Talentoo"
   thumbnailUrl: JavierPuebla-Talentoo.jpg
   rockstar: true
@@ -103,9 +103,9 @@
   name: "David"
   surname: "Navarro"
   company: "ControlUp Insurtech Ventures"
-  title: "Cofundador y director de ControlUp"
+  title: "Cofundador y director"
   bio: "Ingeniero informático, empresario y director de modelos de negocio digitales. Cofundador y director de ControlUp la primera insurtech de corredores y para corredores de seguros. ControlUp desarrolla herramientas y estrategias con las que evolucionar la relación entre los corredores y sus clientes. Representante de las empresas insurtech en la Asociación Española de Fintech e Insurtech."
-  thumbnailUrl: David Navarro.jpg
+  thumbnailUrl: DavidNavarro.jpg
   rockstar: true
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/davidnavarroarnao/"}
@@ -114,9 +114,9 @@
   name: "Unai"
   surname: "Bravo"
   company: "Gistek Insurance Solutions"
-  title: "CEO en GISTEK Insurance Solutions"
+  title: "CEO"
   bio: "Doctor Ingeniero Industrial, Ingeniero Forense y Perito de Seguros."
-  thumbnailUrl: Unai Bravo.png
+  thumbnailUrl: UnaiBravo.png
   rockstar: true
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/unai-bravo-su%C3%A1rez-51129438/"}
