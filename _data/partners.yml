@@ -10,11 +10,13 @@
     - {name: "Scorce", description: "Procesos a través del uso de APIs, conectando de manera rápida, fácil y sencilla a empresas que operan en internet.", link: "https://www.scorce.io/", imageUrl: "scorce.png"}
     - {name: "CorreosLabs", description: "Punto de encuentro entre empresas, profesionales, emprendedores y startups, que pueden crear sinergias y desarrollar modelos de negocio innovadores.", link: "https://correoslabs.com/", imageUrl: "correoslabs.png"}
     - {name: "Python", description: "Promovemos el uso del lenguaje de programación Python en España, servir como punto de encuentro en su uso y darles soporte.", link: "https://www.es.python.org/", imageUrl: "python.png"}
-    - {name: "Santander Global Tech", description: "Trabajamos para que el Santander se convierta en la mejor plataforma abierta de servicios digitales financieros.", link: "https://santanderglobaltech.com/", imageUrl: "santander-global-tech.png"}
     - {name: "Factoria Startup", description: "Emprender puede suponer un camino algo solitario y Factoría Startup aporta solución para facilitar colaboraciones y acompañamiento", link: "https://factoriastartup.com/", imageUrl: "factoria.png"}
-    - {name: "Open PUCP", description: "Un espacio de colaboración donde se promueve el emprendimiento, el arte y la creatividad en base a tecnologías exponenciales.", link: "https://cide.pucp.edu.pe/", imageUrl: "pucp.jpg"}
+    - {name: "Nexum", description: "Incubadora de Empresas de la PUCP", link: "https://cide.pucp.edu.pe/incubacion-empresas/", imageUrl: "nexum.png"}
+    - {name: "UJI Espaitec", description: "Un programa para fomentar el emprendimiento en la Universitat Jaume I.", link: "https://espaitec.uji.es/", imageUrl: "uji_espaitec.png"}
     - {name: "Spanish Startups", description: "Una comunidad de emprendedores y startups que tiene por objetivo conectar todo el ecosistema emprendedor.", link: "https://spanishstartups.es/", imageUrl: "LogoSpanishStarup.png"}
-
+  
+  
+  # - {name: "Santander Global Tech", description: "Trabajamos para que el Santander se convierta en la mejor plataforma abierta de servicios digitales financieros.", link: "https://santanderglobaltech.com/", imageUrl: "santander-global-tech.png"}
   # - {name: "DiversIT", description: "El objetivo es promover la diversidad y fomentar la inclusión en el sector IT", link: "https://www.linkedin.com/feed/hashtag/?keywords=diversit2021", imageUrl: "diversit.png"}
   # - {name: "Amadeus", description: "Amadeus- Mayor proveedor de soluciones tecnológicas para el mundo de los viajes y el turismo", link: "http://www.amadeus.com/", imageUrl: "amadeus.png"}
   # - {name: "Ryanair", description: "Ryanair- La mayor aerolinea de bajo coste de Europa", link: "https://developer.ryanair.com/", imageUrl: "ryanair.png"}

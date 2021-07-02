@@ -50,8 +50,8 @@
   complexity: "Expert"
 -
   id: 006
-  title: "Solo un tecky puede evaluar a otro tecky"
-  description: "El método que evalúa los mejores talentos teckys. Ayudamos a las empresas a incorporar en sus equipos los mejores teckys con un gran valor técnico y profesional."
+  title: "Cuando las Apis y los RRHH se unen."
+  description: "Explicación breve del producto, por qué surgió y como va a ir evolucionando gracias a las APis."
   subtype: presentation
   speakers: [5,11]
   complexity: "Expert"
@@ -83,9 +83,9 @@
 -
   id: 011
   title: "Mesa Redonda"
-  description: "Insurtech"
+  description: "¡Innovacion en el mundo asegurador!"
   subtype: presentation
-  speakers: [9]
+  speakers: [9,10,1]
 -
   id: 012
   title: "Por confirmar"

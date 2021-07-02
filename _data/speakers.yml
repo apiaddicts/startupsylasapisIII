@@ -59,7 +59,7 @@
   surname: "Sánchez"
   company: "Ninja Talent"
   title: "CEO en Ninja Talent | Profesora en Universidad Francisco de Vitoria"
-  bio: ""
+  bio: "Profesional de RRHH con experiencia en los distintos campos y amplios conocimientos sobre la selección de perfiles IT. Actualmente en el Departamento de Desarrollo de Personas haciendo selección y desarrollo en la Universidad Francisco de Vitoria. Co-fundadora y Project Manager de Ninja Talent."
   thumbnailUrl: LuciSanchez.jpeg
   rockstar: true
   social: 
@@ -100,33 +100,33 @@
   #  - {name: "linkedin", link: ""}
 - 
   id: 9
-  name: "Speaker"
-  surname: "Insurtech"
-  company: "Por confirmar"
-  title: ""
-  bio: ""
-  thumbnailUrl: user.png
+  name: "David"
+  surname: "Navarro"
+  company: "ControlUp Insurtech Ventures"
+  title: "Cofundador y director de ControlUp"
+  bio: "Ingeniero informático, empresario y director de modelos de negocio digitales. Cofundador y director de ControlUp la primera insurtech de corredores y para corredores de seguros. ControlUp desarrolla herramientas y estrategias con las que evolucionar la relación entre los corredores y sus clientes. Representante de las empresas insurtech en la Asociación Española de Fintech e Insurtech."
+  thumbnailUrl: David Navarro.jpg
   rockstar: true
   social: 
-  #  - {name: "linkedin", link: ""}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/davidnavarroarnao/"}
 - 
   id: 10
-  name: "Speaker"
-  surname: "Insurtech"
-  company: "Por confirmar"
-  title: ""
-  bio: ""
-  thumbnailUrl: user.png
+  name: "Unai"
+  surname: "Bravo"
+  company: "Gistek Insurance Solutions"
+  title: "CEO en GISTEK Insurance Solutions"
+  bio: "Doctor Ingeniero Industrial, Ingeniero Forense y Perito de Seguros."
+  thumbnailUrl: Unai Bravo.png
   rockstar: true
   social: 
-  #  - {name: "linkedin", link: ""}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/unai-bravo-su%C3%A1rez-51129438/"}
 - 
   id: 11
   name: "Magno"
   surname: "Alarcon"
   company: "Ninja Talent"
   title: "Project Manager"
-  bio: ""
+  bio: "Ingeniero de sistemas, jefe de proyectos en CloudAPPi y Product Owwner de Ninja Talent"
   thumbnailUrl: magno.jpeg
   rockstar: true
   social: 
