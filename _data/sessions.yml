@@ -18,7 +18,6 @@
   description: ""
   speakers: [1]
   complexity: "Expert"
-
 -
   id: 002
   title: "Arcopay, un nuevo medio de pago PSD2"
@@ -26,14 +25,13 @@
   description: "Nuestro iniciador de pagos es una solución muy potente que se presenta como una alternativa más de pago frente a las opciones actuales. "
   speakers: [2]
   complexity: "Expert"
-
--
-  id: 003
-  title: "Cómo optimizar procesos de aseguradoras y bancos mediante API"
-  description: "Las conexiones API habilitan el intercambio en tiempo real de datos, posibilitando la automatización y optimización de algunos procesos internos en el sector financiero."
-  subtype: keynote
-  speakers: [3]
-  complexity: "Expert"
+#-
+#  id: 003
+#  title: "Cómo optimizar procesos de aseguradoras y bancos mediante API"
+#  description: "Las conexiones API habilitan el intercambio en tiempo real de datos, posibilitando la automatización y optimización de algunos procesos internos en el sector financiero."
+#  subtype: keynote
+#  speakers: [3]
+#  complexity: "Expert"
 -
   id: 004
   title: "Resolución del concurso y preguntas/dudas de los asistentes"
@@ -68,7 +66,7 @@
   description: "La digitalización del sector de los RRHH es inminente, y desde Talentoo la fomentamos con una plataforma de selección B2B en la que conectamos empresas que buscan personal con una red global de recruiters formada por empresas de selección y headhunters. El #SmartRecruitment es digital."
   subtype: presentation
   speakers: [7]
-  complexity: "None"
+  complexity: "Expert"
 -
   id: 009
   title: "Preguntas/dudas de los asistentes"
@@ -80,15 +78,21 @@
   description: "Aspectos a considerar en la implementación de un gobierno de APIs alineado a la estrategia digital de una compañía de Seguros. Hablaremos de ciclo de vida y capacidades tecnológicas en el desarrollo de APIs sobre un entorno de constante innovación."
   subtype: presentation
   speakers: [8]
+  complexity: "Expert"
+
 -
   id: 011
   title: "Mesa Redonda Insurtech"
   description: "¡Innovacion en el mundo asegurador!"
   subtype: presentation
   speakers: [9,10,12,1]
+  complexity: "Expert"
+
 -
   id: 012
   title: "Tan inteligentes como la nueva economía"
   description: "Trata de explicar como podemos colaborar con otras plataformas de la nueva economía, con ecosistemas P2P, gic economy, silver economy, pero tambien con servicios como seguros, a traves de conexiones entre marketplace."
   subtype: presentation
   speakers: [13]
+  complexity: "Expert"
+
