@@ -91,13 +91,13 @@
   id: 8
   name: "Luis"
   surname: "Torres"
-  company: "Rimac"
-  title: ""
-  bio: ""
-  thumbnailUrl: user.png
+  company: "Rimac Seguros"
+  title: "IT Integration Architect & Product Owner API Governance"
+  bio: "Soy Arquitecto de integración y Product Owner de Gobierno de APIs en Rimac. Tengo mas de 10 años de experiencia como profesional de TI desempeñando diversos roles como desarrollador, líder técnico y arquitecto. He participado en diversos proyectos de innovación tecnológica en sectores como banca, seguros y salud."
+  thumbnailUrl: luistorres.jpg
   rockstar: true
   social: 
-  #  - {name: "linkedin", link: ""}
+    - {name: "linkedin", link: "https://pe.linkedin.com/in/luis-angel-torres-calle-b4799656"}
 - 
   id: 9
   name: "David"
@@ -131,3 +131,25 @@
   rockstar: true
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/magno-alarcon-48585723/"}
+- 
+  id: 12
+  name: "Nuria"
+  surname: "Cervero"
+  company: "Insurance Business Applications"
+  title: "Solutions Architect"
+  bio: "Apasionada de la tecnología y de los retos con mas de 18 años de experiencia ayudando a las compañías a implantar nuevas arquitecturas y soluciones. En mis últimos años he centrado mi carrera en el sector de seguros, donde he realizado diferentes proyectos tanto de arquitectura como implantaciones e integraciones de nuevos productos."
+  thumbnailUrl: nuriacervero.png
+  rockstar: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/nuriacervero/"}
+- 
+  id: 13
+  name: "Pilar"
+  surname: "Andrade"
+  company: "LISA Seguros Inteligentes"
+  title: "CEO"
+  bio: "Especialista en seguros, con formación en Economía y Ciencias Politicas, desde hace 25 años en el sector, con un Background en Axa Seguros que desde 2018 lidera un proyecto InsurTech para hacer los seguros más simples, más ágiles y más justos"
+  thumbnailUrl: pilarandrade.png
+  rockstar: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/pilarandrade/"}

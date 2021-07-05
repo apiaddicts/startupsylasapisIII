@@ -76,8 +76,8 @@
   subtype: presentation
 -
   id: 010
-  title: "Rimac"
-  description: "Insurtech"
+  title: "Gobernanza de APIs en la era digital de Seguros"
+  description: "Aspectos a considerar en la implementación de un gobierno de APIs alineado a la estrategia digital de una compañía de Seguros. Hablaremos de ciclo de vida y capacidades tecnológicas en el desarrollo de APIs sobre un entorno de constante innovación."
   subtype: presentation
   speakers: [8]
 -
@@ -85,10 +85,10 @@
   title: "Mesa Redonda Insurtech"
   description: "¡Innovacion en el mundo asegurador!"
   subtype: presentation
-  speakers: [9,10,1]
+  speakers: [9,10,12,1]
 -
   id: 012
-  title: "Por confirmar"
-  description: "Startup Insurtech"
+  title: "Tan inteligentes como la nueva economía"
+  description: "Trata de explicar como podemos colaborar con otras plataformas de la nueva economía, con ecosistemas P2P, gic economy, silver economy, pero tambien con servicios como seguros, a traves de conexiones entre marketplace."
   subtype: presentation
-  speakers: [10]
+  speakers: [13]

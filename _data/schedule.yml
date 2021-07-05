@@ -90,18 +90,18 @@
     - {
         startTime: "18:20",
         endTime: "19:05",
-        sessionIds: [011]
+        sessionIds: [012]
     }
     - {
         startTime: "19:05",
         endTime: "19:30",
+        sessionIds: [011]
+    }
+    - {
+        startTime: "19:30",
+        endTime: "19:35",
         sessionIds: [004]
     }
-#    - {
-#        startTime: "19:30",
-#        endTime: "19:35",
-#        sessionIds: [004]
-#    }
 #-
 #  date: "2017-10-12"
 #  dateReadable: "11 de Octubre (Sala Talleres)"

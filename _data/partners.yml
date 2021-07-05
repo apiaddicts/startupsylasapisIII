@@ -14,7 +14,7 @@
     - {name: "Nexum", description: "Incubadora de Empresas de la PUCP", link: "https://cide.pucp.edu.pe/incubacion-empresas/", imageUrl: "nexum.png"}
     - {name: "UJI Espaitec", description: "Un programa para fomentar el emprendimiento en la Universitat Jaume I.", link: "https://espaitec.uji.es/", imageUrl: "uji_espaitec.png"}
     - {name: "Spanish Startups", description: "Una comunidad de emprendedores y startups que tiene por objetivo conectar todo el ecosistema emprendedor.", link: "https://spanishstartups.es/", imageUrl: "LogoSpanishStarup.png"}
-  
+    - {name: "AEFI Asociacion Española de Fintech e Insurtech", description: "Fintech Association that represents more than 160 FinTech and InsurTech in Spain", link: "https://www.asociacionfintech.es/", imageUrl: "aefi.jpeg"}
   
   # - {name: "Santander Global Tech", description: "Trabajamos para que el Santander se convierta en la mejor plataforma abierta de servicios digitales financieros.", link: "https://santanderglobaltech.com/", imageUrl: "santander-global-tech.png"}
   # - {name: "DiversIT", description: "El objetivo es promover la diversidad y fomentar la inclusión en el sector IT", link: "https://www.linkedin.com/feed/hashtag/?keywords=diversit2021", imageUrl: "diversit.png"}
