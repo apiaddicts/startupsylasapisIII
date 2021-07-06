@@ -16,14 +16,19 @@
     - {title: "Charla", color: "#90be4e"}
   timeslots:
     - {
-        startTime: "17:30",
-        endTime: "17:45",
+        startTime: "17:00",
+        endTime: "17:30",
         sessionIds: [001]
     }
     - {
-        startTime: "17:45",
-        endTime: "18:20",
+        startTime: "17:30",
+        endTime: "18:00",
         sessionIds: [003]
+    }
+    - {
+        startTime: "18:00",
+        endTime: "18:20",
+        sessionIds: [013]
     }
     - {
         startTime: "18:20",
@@ -47,14 +52,19 @@
     - {title: "Charla", color: "#90be4e"}
   timeslots:
     - {
-        startTime: "17:30",
-        endTime: "17:45",
+        startTime: "17:00",
+        endTime: "17:30",
         sessionIds: [001]
     }
     - {
-        startTime: "17:45",
-        endTime: "18:20",
+        startTime: "17:30",
+        endTime: "18:00",
         sessionIds: [008]
+    }
+    - {
+        startTime: "18:00",
+        endTime: "18:20",
+        sessionIds: [013]
     }
     - {
         startTime: "18:20",
@@ -78,14 +88,19 @@
     - {title: "Charla", color: "#90be4e"}
   timeslots:
     - {
-        startTime: "17:30",
-        endTime: "17:45",
+        startTime: "17:00",
+        endTime: "17:30",
         sessionIds: [001]
     }
     - {
-        startTime: "17:45",
-        endTime: "18:20",
+        startTime: "17:30",
+        endTime: "18:00",
         sessionIds: [010]
+    }
+    - {
+        startTime: "18:00",
+        endTime: "18:20",
+        sessionIds: [013]
     }
     - {
         startTime: "18:20",

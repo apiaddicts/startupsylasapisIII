@@ -34,7 +34,7 @@
   complexity: "Expert"
 -
   id: 004
-  title: "Resolución del concurso y preguntas/dudas de los asistentes"
+  title: "Startup Ganadora del concurso"
   description: ""
   subtype: keynote
 -
@@ -96,3 +96,8 @@
   speakers: [13]
   complexity: "Expert"
 
+-
+  id: 013
+  title: "Startups Finalistas del concurso"
+  subtype: presentation
+  speakers: [13]
