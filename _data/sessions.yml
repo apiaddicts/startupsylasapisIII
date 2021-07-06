@@ -25,13 +25,13 @@
   description: "Nuestro iniciador de pagos es una solución muy potente que se presenta como una alternativa más de pago frente a las opciones actuales. "
   speakers: [2]
   complexity: "Expert"
-#-
-#  id: 003
-#  title: "Cómo optimizar procesos de aseguradoras y bancos mediante API"
-#  description: "Las conexiones API habilitan el intercambio en tiempo real de datos, posibilitando la automatización y optimización de algunos procesos internos en el sector financiero."
-#  subtype: keynote
-#  speakers: [3]
-#  complexity: "Expert"
+-
+  id: 003
+  title: "FINTECH"
+  description: ""
+  subtype: keynote
+  speakers: [3]
+  complexity: "Expert"
 -
   id: 004
   title: "Resolución del concurso y preguntas/dudas de los asistentes"
