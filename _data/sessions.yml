@@ -34,7 +34,7 @@
   complexity: "Expert"
 -
   id: 004
-  title: "Startup Ganadora del concurso"
+  title: "Startup ganadora del concurso"
   description: ""
   subtype: keynote
 -
@@ -98,5 +98,15 @@
 
 -
   id: 013
-  title: "Startups Finalistas del concurso"
+  title: "Primer finalista del concurso a la mejor Startup"
+  subtype: presentation
+
+-
+  id: 014
+  title: "Segundo finalista del concurso a la mejor Startup"
+  subtype: presentation
+
+-
+  id: 015
+  title: "Tercer finalista del concurso a la mejor Startup"
   subtype: presentation
