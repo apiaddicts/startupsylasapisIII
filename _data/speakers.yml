@@ -33,15 +33,15 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/juanmfarango/"}
 - 
   id: 3
-  name: "Benito"
-  surname: "Méndez"
+  name: "Estela"
+  surname: "Medrano"
   company: "HeyTrade"
-  title: "Chief Technology Officer"
-  bio: "Ingeniero en Informática especializado en tecnologías móviles y Gestión de Proyectos mediante metodologías ágiles."
-  thumbnailUrl: BenitoMendez1.jpg
+  title: "Software Developer"
+  bio: "Entusiasta del Conocimiento, la Programación, XP, Agile, TDD, Clean Code, la Educación y la Tecnología enfocada a las Personas."
+  thumbnailUrl: EstelaMedrano.png
   rockstar: true
   social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/benitomendezsanchez/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/estela-medrano-jim%C3%A9nez/"}
 - 
   id: 4
   name: "Raúl"

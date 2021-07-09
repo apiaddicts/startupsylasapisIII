@@ -27,8 +27,8 @@
   complexity: "Expert"
 -
   id: 003
-  title: "FINTECH"
-  description: ""
+  title: "Bootstrapping a Trading Platform"
+  description: "Diagrama de arquitectura - APIs, beneficios y desafios"
   subtype: keynote
   speakers: [3]
   complexity: "Expert"
@@ -98,15 +98,15 @@
 
 -
   id: 013
-  title: "Primer finalista del concurso a la mejor Startup"
+  title: "Finalistas del concurso a la mejor Startup"
   subtype: presentation
 
 -
   id: 014
-  title: "Segundo finalista del concurso a la mejor Startup"
+  title: "Finalistas del concurso a la mejor Startup"
   subtype: presentation
 
 -
   id: 015
-  title: "Tercer finalista del concurso a la mejor Startup"
+  title: "Finalistas del concurso a la mejor Startup"
   subtype: presentation
